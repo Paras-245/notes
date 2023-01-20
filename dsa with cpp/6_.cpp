@@ -3,7 +3,7 @@
 using namespace std;
 int main()
 {
-    int n;
+    long long int n;
     cin >> n;
     
     /*// decimal to binary using second method
@@ -54,7 +54,7 @@ int main()
     cout << ans << endl;
     */
 
-    cout << ~n << endl;
+    
     
     
    

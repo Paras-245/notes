@@ -10,7 +10,7 @@
 3. then we have to print its reverse
      which can be done using : ans = (bit \* 10^i)+ans
 4. to print the number as it is
-	we use : ans = (ans \* 10)+d
+	we use : ans = (ans \* 10)+digit
 
 ### Negative numbers to binary :
 1. first ignore negative sign

@@ -37,7 +37,7 @@ int main()
     cout << ans << endl;
     */
  
-    /*// binary to decimal
+    // binary to decimal
     int ans = 0,i=0;
     while(n)
     {
@@ -52,7 +52,7 @@ int main()
     }
 
     cout << ans << endl;
-    */
+    
     
    
 

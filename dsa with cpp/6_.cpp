@@ -56,9 +56,9 @@ int main()
 
     int i = 0,ans = 0;
     while(n)
-    { 
+    {
         int digit = n%10;
-        ans = digit*pow(10,i) + ans;
+        ans = ans * 10 + digit;
         n=n/10;
         i++;
     }

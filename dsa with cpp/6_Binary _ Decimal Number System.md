@@ -16,10 +16,4 @@
 1. first ignore negative sign
 2. convert to binary and gets 2's complement
 
-
-
-
-
-
-
 ## Binary to Decimal :

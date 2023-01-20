@@ -6,7 +6,7 @@ int main()
     long long int n;
     cin >> n;
     
-    /*// decimal to binary using second method
+    // decimal to binary using second method
     int ans = 0;
     int i = 0;
     while(n)
@@ -18,7 +18,7 @@ int main()
 
     }
     cout << ans << endl;
-    */
+    
 
     /*// negative decimal to binary  
     unsigned long long int ans = 0,i = 0;

@@ -54,14 +54,16 @@ int main()
     cout << ans << endl;
     */
 
-   int i = 0,ans = 0;
-        while(n)
-        {
-            int digit = n%10;
-            ans = digit*pow(10,i) + digit;
-            n=n/10;
-            i++;
-        }
+    int i = 0,ans = 0;
+    while(n)
+    { 
+        int digit = n%10;
+        ans = digit*pow(10,i) + ans;
+        n=n/10;
+        i++;
+    }
+
+    cout << ans << endl;
     
     
    

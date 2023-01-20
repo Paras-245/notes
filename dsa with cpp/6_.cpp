@@ -37,7 +37,7 @@ int main()
     cout << ans << endl;
     */
  
-    // binary to decimal
+    /*// binary to decimal
     int ans = 0,i=0;
     while(n)
     {
@@ -52,6 +52,16 @@ int main()
     }
 
     cout << ans << endl;
+    */
+
+   int i = 0,ans = 0;
+        while(n)
+        {
+            int digit = n%10;
+            ans = digit*pow(10,i) + digit;
+            n=n/10;
+            i++;
+        }
     
     
    

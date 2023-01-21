@@ -12,4 +12,4 @@
 3. Vulnerability assessment : it is same as pt but in this we only introduce bugs but not tell how much they can damage
 --- 
 1. Cyber Espionage : Spying on someone to get illicit access to confidential information
-2. Ex
+2. Exploits : Designed to cause damage to 

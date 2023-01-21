@@ -11,4 +11,5 @@
 2. Penetration testing : Testing and reporting the security loopholes
 3. Vulnerability assessment : it is same as pt but in this we only introduce bugs but not tell how much they can damage
 --- 
-1. Cyber Es
+1. Cyber Espionage : Spying on someone to get illicit access to confidential information
+2. Ex

@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "839fa7d9e9b9de5a",
+        "id": "1b3bc592f099b17f",
         "type": "tabs",
         "children": [
           {
-            "id": "96eaec7b9e38b6a3",
+            "id": "f51882f43edd283f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/7_Leetcode Problems.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d9f016acaaf765a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bitten tech course/module 1 (Introduction)/5_Who are Hackers.md",
+                "file": "bitten tech course/module 1 (Introduction)/Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/module 1 (Introduction)/5_Who are Hackers.md",
+                "file": "bitten tech course/module 1 (Introduction)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/module 1 (Introduction)/5_Who are Hackers.md",
+                "file": "bitten tech course/module 1 (Introduction)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/module 1 (Introduction)/5_Who are Hackers.md"
+                "file": "bitten tech course/module 1 (Introduction)/Untitled.md"
               }
             }
           }
@@ -159,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9f016acaaf765a4",
+  "active": "f51882f43edd283f",
   "lastOpenFiles": [
+    "dsa with cpp/7_Leetcode Problems.md",
     "bitten tech course/module 1 (Introduction)/4_CIA Traid.md",
+    "bitten tech course/module 1 (Introduction)/5_Who are Hackers.md",
     "bitten tech course/module 1 (Introduction)/Untitled.md",
     "bitten tech course/Untitled.md",
-    "dsa with cpp/7_Leetcode Problems.md",
     "dsa with cpp/5_Operators _ For loop.md",
     "dsa with cpp/6_Binary _ Decimal Number System.md"
   ]

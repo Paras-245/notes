@@ -2,4 +2,7 @@
 - not to expliot but help to fix bugs
 - it is on good side
 ## 2. Black Hat Hacker :
-- use e
+- use vulnerabilities
+- just randomly hack system
+- to take revenge or spying
+## 3. Grey Hat Hacker :

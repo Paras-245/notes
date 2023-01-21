@@ -1,2 +1,2 @@
 - to protect the cyber space from black hat hackers
-- to get bugs to 
+- to get bugs to make the product more stable or secure

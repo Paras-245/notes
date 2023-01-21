@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3f213b41be901ad2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "bitten tech course/module 1 (Introduction)/10_Careers in Ethical Hacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/module 1 (Introduction)/9_Need for Ethical Hackers.md",
+                "file": "bitten tech course/module 1 (Introduction)/10_Careers in Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/module 1 (Introduction)/9_Need for Ethical Hackers.md",
+                "file": "bitten tech course/module 1 (Introduction)/10_Careers in Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/module 1 (Introduction)/9_Need for Ethical Hackers.md"
+                "file": "bitten tech course/module 1 (Introduction)/10_Careers in Ethical Hacking.md"
               }
             }
           }
@@ -146,8 +159,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a7d2c777e8dd750",
+  "active": "3f213b41be901ad2",
   "lastOpenFiles": [
+    "bitten tech course/module 1 (Introduction)/9_Need for Ethical Hackers.md",
     "bitten tech course/module 1 (Introduction)/8_Information Warfare.md",
     "bitten tech course/module 1 (Introduction)/7_ Intro to Ethical Hacking.md",
     "bitten tech course/module 1 (Introduction)/5_Who are Hackers.md",

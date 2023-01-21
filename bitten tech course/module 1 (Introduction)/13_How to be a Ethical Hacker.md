@@ -1,3 +1,4 @@
 - Programming is important
 - have mindset
-- be verbose 
+- be verbose & think logically
+- dont learn it all , but know it all

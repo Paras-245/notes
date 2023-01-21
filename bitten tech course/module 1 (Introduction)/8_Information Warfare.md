@@ -1,2 +1,4 @@
+- in previous times information was physical and cc
 - cyber war between two  groups or countries
+- using viruses , malwares
 - 

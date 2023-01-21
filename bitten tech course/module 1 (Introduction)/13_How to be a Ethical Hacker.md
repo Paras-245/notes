@@ -13,4 +13,5 @@ linux, windows,android,ios ,mac
 ## Programming :
 - reverse engineering - Assembly,c,c++
 - script writing- python , ruby,perl
-- web app testing : Jav
+- web app testing : Javscript,php,sql,jsp,python
+- shell scripting : bash

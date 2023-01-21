@@ -10,4 +10,7 @@ http,dns,web servers,ftp,smtp
 Tcp ip,arp,devices,types,routing,switching
 ## Os:
 linux, windows,android,ios ,mac
-## Program
+## Programming :
+- reverse engineering - Assembly,c,c++
+- script writing- python , ruby,perl
+- web app testing : Jav

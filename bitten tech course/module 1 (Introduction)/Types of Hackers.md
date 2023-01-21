@@ -6,3 +6,5 @@
 - just randomly hack system
 - to take revenge or spying
 ## 3. Grey Hat Hacker :
+- Not good not bad 
+- depend on condition

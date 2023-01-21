@@ -1,4 +1,4 @@
 - in previous times information was physical and groups spendsso much to get information
 - cyber war between two  groups or countries
 - using viruses , malwares,exploiting networks
-- stealing info via unau
+- stealing info via unauthorized access

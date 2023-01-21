@@ -2,3 +2,6 @@
 - have mindset
 - be verbose & think logically
 - dont learn it all , but know it all
+## Computer Basics :
+hardware,software etc
+## Web & Internet 

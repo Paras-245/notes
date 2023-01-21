@@ -7,4 +7,7 @@ hardware,software etc
 ## Web & Internet :
 http,dns,web servers,ftp,smtp
 ## Networking :
-Tcp ip,arp , devices , types,routing
+Tcp ip,arp,devices,types,routing,switching
+## Os:
+linux, windows,android,ios ,mac
+## Program

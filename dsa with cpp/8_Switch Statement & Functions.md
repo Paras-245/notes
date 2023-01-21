@@ -3,7 +3,7 @@ it is basically same as if else if ladder but more efficient then this.
 ```cpp
 switch(expression)//which evaluates to a integral value
 {
-	case constant1:
+	case constant1://constant can be a intger or char value but cant be float or string
 		statements;
 		break;
 	case constant2:
@@ -13,7 +13,7 @@ switch(expression)//which evaluates to a integral value
 		statements;
 		break;
 	default:
-		s
+		statements
 
 }
 ```

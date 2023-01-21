@@ -14,4 +14,4 @@
 1. Cyber Espionage : Spying on someone to get illicit access to confidential information
 2. Exploits : Designed to cause damage to and perform harmful actions
 3. Script Kiddie :noob hackers
-4. Zero day : 
+4. Zero day : vulnerabillity not known to professional and only known to hacker

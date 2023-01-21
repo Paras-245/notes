@@ -9,4 +9,6 @@
 ---
 1. Infosec : Information security
 2. Penetration testing : Testing and reporting the security loopholes
-3. Vulnerability assessment : it is 
+3. Vulnerability assessment : it is same as pt but in this we only introduce bugs but not tell how much they can damage
+--- 
+1. Cyber Es

@@ -8,4 +8,5 @@
 2. Cracker : gains access to damage assets and cause harm. and he is always malicious
 ---
 1. Infosec : Information security
-2. Penetration testing : Testing and reporting the security loopho
+2. Penetration testing : Testing and reporting the security loopholes
+3. Vulnerability assessment : it is 

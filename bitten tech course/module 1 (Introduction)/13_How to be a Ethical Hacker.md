@@ -1,0 +1,3 @@
+- Programming is important
+- have mindset
+- be verbose 

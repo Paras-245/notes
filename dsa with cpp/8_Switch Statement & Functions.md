@@ -45,3 +45,4 @@ return_type func_name(arguments)
 - and first main is stored in stack then on it other functions are stored
 
 ## Pass by Value :
+when we pass a variable like func(n) here a copy of n is being created n the func() function and both n are diff in their own scope

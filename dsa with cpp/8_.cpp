@@ -114,7 +114,10 @@ int main()
     cin >> n;
     cout << ap(n) << endl;
     */
-    // ques
+    // ques 2 count set bits in a and b
+    int a ,b;
+    cin >>a>>b;
+    count
      
 
     

@@ -49,4 +49,5 @@ when we pass a variable like func(n) here a copy of n is being created n the fun
 
 ## Homework :
 1. print ap = (3*n+7)
-2. count set 
+2. count set bits 
+3. print fibonnachi series

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "df3490486ae7394b",
+        "id": "4311cc12cb018ba1",
         "type": "tabs",
         "children": [
           {
-            "id": "bdd34817cbce2439",
+            "id": "48d3013b7ccc1191",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa with cpp/5_Operators _ For loop.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -146,7 +142,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bdd34817cbce2439",
+  "active": "62f6a2d2404b2a14",
   "lastOpenFiles": [
     "dsa with cpp/8_Switch Statement & Functions.md",
     "dsa with cpp/2_Write Our First Program in C++.md",

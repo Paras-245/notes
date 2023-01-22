@@ -41,6 +41,12 @@ int ap(int n)
     return 3*n+7;
 }
 
+int countSetBits(int a,int b)
+{
+    int count = 0;
+    while()
+}
+
 int main()
 {
 
@@ -117,7 +123,7 @@ int main()
     // ques 2 count set bits in a and b
     int a ,b;
     cin >>a>>b;
-    count
+    cout << countSetBits(a,b) << endl;
      
 
     

@@ -56,6 +56,11 @@ int countSetBits(int a)
     return count;
 }
 
+int fib(int n)
+{
+    int a = 0,b =1;
+}
+
 int main()
 {
 
@@ -136,7 +141,8 @@ int main()
     */
     //ques3 print nth number of fib series
     int n;
-    cn
+    cin>>n;
+    cout << fib(n) << endl;
 
     
 

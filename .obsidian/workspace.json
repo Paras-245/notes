@@ -11,8 +11,12 @@
             "id": "48d3013b7ccc1191",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/5_Operators _ For loop.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/5_Operators _ For loop.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -121,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/5_Operators _ For loop.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md"
               }
             }
           }
@@ -144,9 +148,9 @@
   },
   "active": "62f6a2d2404b2a14",
   "lastOpenFiles": [
+    "dsa with cpp/5_Operators _ For loop.md",
     "dsa with cpp/8_Switch Statement & Functions.md",
     "dsa with cpp/2_Write Our First Program in C++.md",
-    "dsa with cpp/5_Operators _ For loop.md",
     "dsa with cpp/6_Binary _ Decimal Number System.md",
     "bitten tech course/Module 1 (Introduction)/13_How to be a Ethical Hacker.md",
     "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",

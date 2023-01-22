@@ -10,4 +10,4 @@
 - Bad configuration maybe disastrous
 - dificult to choose right solution
 - unawareness
-- 
+- make things slower

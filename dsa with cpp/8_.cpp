@@ -36,6 +36,11 @@ void dummy(int n)
     cout << "n is "<< n << endl;
 }
 
+int ap(int n)
+{
+    return 3*n+7;
+}
+
 int main()
 {
 
@@ -105,7 +110,9 @@ int main()
 
     // Homework
     // question 1 print ap series 3n + 7
-    
+    int n;
+    cin >> n;
+    cout << ap(n) << endl;
     
      
 

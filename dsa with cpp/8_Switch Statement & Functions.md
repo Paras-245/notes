@@ -44,3 +44,4 @@ return_type func_name(arguments)
 - functions are called in stack like plates in wedding which means (last come first serve)
 - and first main is stored in stack then on it other functions are stored
 
+## Pass by Value :

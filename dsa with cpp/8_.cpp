@@ -30,6 +30,7 @@ int nCr(int n,int r)
 }
 int main()
 {
+    
     /*//switch case
     int num = 2;
     switch(num)
@@ -75,8 +76,7 @@ int main()
     }
     */
 
-    // functions 
-
+    /*// functions 
 
     //even odd
     // int num ;
@@ -84,9 +84,13 @@ int main()
     // cout << isEven(num) << endl;
 
     // ncr
-    int n,r;
-    cin >> n>>r;
-    cout << nCr(n,r) << endl;
+    // int n,r;
+    // cin >> n>>r;
+    // cout << nCr(n,r) << endl;
+    */
+
+   //call by value
+
     
      
 

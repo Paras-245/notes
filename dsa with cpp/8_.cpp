@@ -62,8 +62,10 @@ int fib(int n)
     for(int i = 0;i < n;i++)
     {
         sum = a + b;
-        a = 
+        a = b;
+        b = sum;
     }
+    return sum;
 }
 
 int main()

@@ -46,3 +46,7 @@ return_type func_name(arguments)
 
 ## Pass by Value :
 when we pass a variable like func(n) here a copy of n is being created n the func() function and both n are diff in their own scope
+
+## Homework :
+1. print ap = (3*n+7)
+2. count set 

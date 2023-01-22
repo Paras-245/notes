@@ -129,11 +129,12 @@ int main()
     cin >> n;
     cout << ap(n) << endl;
     */
-    // ques 2 count set bits in a and b
+    /*// ques 2 count set bits in a and b
     int a ,b;
     cin >>a>>b;
     cout << countSetBits(a)+countSetBits(b) << endl;
-     
+    */
+    //ques
 
     
 

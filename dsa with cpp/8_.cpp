@@ -28,9 +28,16 @@ int nCr(int n,int r)
     return fact(n)/(fact(n-r)*fact(r));
 
 }
+
+
+void dummy(int n)
+{
+    cout << "n is "<< n << endl;
+}
+
 int main()
 {
-    
+
     /*//switch case
     int num = 2;
     switch(num)
@@ -89,8 +96,11 @@ int main()
     // cout << nCr(n,r) << endl;
     */
 
-   //call by value
-
+    //call by value
+    int n;
+    cin >> n;
+    dummy(n);
+    cout <<"number is "
     
      
 

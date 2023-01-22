@@ -134,7 +134,7 @@ int main()
     cin >>a>>b;
     cout << countSetBits(a)+countSetBits(b) << endl;
     */
-    //ques
+    //ques3 print nth number of fib series
 
     
 

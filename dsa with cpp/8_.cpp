@@ -50,8 +50,10 @@ int countSetBits(int a)
         {
             count++;
         }
-        a>>1;
+        a=a>>1;
     }
+
+    return count;
 }
 
 int main()

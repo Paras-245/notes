@@ -98,10 +98,14 @@ int main()
     */
 
     //call by value
-    int n;
-    cin >> n;
-    dummy(n);
-    cout <<"number n is " << n << endl;
+    // int n;
+    // cin >> n;
+    // dummy(n);
+    // cout <<"number n is " << n << endl;
+
+    // Homework
+    // question 1 print ap series 3n + 7
+    
     
      
 

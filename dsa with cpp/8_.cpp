@@ -109,11 +109,12 @@ int main()
     // cout <<"number n is " << n << endl;
 
     // Homework
-    // question 1 print ap series 3n + 7
+    /*// question 1 print ap series 3n + 7
     int n;
     cin >> n;
     cout << ap(n) << endl;
-    
+    */
+    // ques
      
 
     

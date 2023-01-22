@@ -9,3 +9,5 @@
 - Costly
 - Bad configuration maybe disastrous
 - dificult to choose right solution
+- unawareness
+- 

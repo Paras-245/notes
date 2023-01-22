@@ -45,6 +45,13 @@ int countSetBits(int a)
 {
     int count = 0;
     while(a)
+    {
+        if(a&1)
+        {
+            count++;
+        }
+        a>>1;
+    }
 }
 
 int main()
@@ -123,7 +130,7 @@ int main()
     // ques 2 count set bits in a and b
     int a ,b;
     cin >>a>>b;
-    cout << countSetBits(a)+ << endl;
+    cout << countSetBits(a)+countSetBits(b) << endl;
      
 
     

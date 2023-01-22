@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4311cc12cb018ba1",
+        "id": "90c2ac34190b7db8",
         "type": "tabs",
         "children": [
           {
-            "id": "48d3013b7ccc1191",
+            "id": "5f23a5ac66e946e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62f6a2d2404b2a14",
+  "active": "5f23a5ac66e946e9",
   "lastOpenFiles": [
-    "dsa with cpp/5_Operators _ For loop.md",
-    "dsa with cpp/8_Switch Statement & Functions.md",
-    "dsa with cpp/2_Write Our First Program in C++.md",
-    "dsa with cpp/6_Binary _ Decimal Number System.md",
-    "bitten tech course/Module 1 (Introduction)/13_How to be a Ethical Hacker.md",
-    "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
-    "bitten tech course/module 1 (Introduction)/11_Course Overview.md",
+    "bitten tech course/Module 1 (Introduction)/5_Who are Hackers.md",
+    "bitten tech course/Module 1 (Introduction)/6_Types of Hackers.md",
+    "bitten tech course/Module 1 (Introduction)/7_ Intro to Ethical Hacking.md",
+    "bitten tech course/Module 1 (Introduction)/8_Information Warfare.md",
     "bitten tech course/Module 1 (Introduction)/9_Need for Ethical Hackers.md",
     "bitten tech course/Module 1 (Introduction)/10_Careers in Ethical Hacking.md",
-    "bitten tech course/Module 1 (Introduction)/8_Information Warfare.md"
+    "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
+    "bitten tech course/Module 1 (Introduction)/13_How to be a Ethical Hacker.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
+    "dsa with cpp/5_Operators _ For loop.md"
   ]
 }

@@ -18,3 +18,5 @@ we print arrays using loops
 ## Max and min element :
 shown in program
 ## Scope:
+if we try to change value of array passed by value by function then value of actual array will be changed
+- because array point 

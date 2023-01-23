@@ -16,11 +16,21 @@ int main()
 
     int third[15] = {2,7};
     int n = 15;
+    // printing array
     for(int i = 0; i < n;i++)
     {
         cout << third[i] << ' ';
 
     }
+
+    int fourth[10] = {0};
+    n = 10;
+     for(int i = 0; i < n;i++)
+    {
+        cout << fourth[i]] << ' ';
+
+    }
+
 
 
 

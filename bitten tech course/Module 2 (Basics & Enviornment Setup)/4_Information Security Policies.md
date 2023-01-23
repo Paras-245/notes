@@ -3,4 +3,5 @@
 - Scope
 - Implementation :  workers sign agreement and apply for changes
 - trainings and evaluation
-
+- if database needs to be encrypted then every person should be aware and make changes accordingly
+- people are weakest 

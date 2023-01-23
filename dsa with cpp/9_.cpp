@@ -58,7 +58,7 @@ bool linearSearch(int arr[], int size,int key)
 
 void reverseArr(int arr[],int size)
 {
-    int start = arr[0],end = arr[size - 1],temp;
+    int start = 0,end = size - 1,temp;
     for(;start < end;start++,end--)
     {
         temp = arr[end];

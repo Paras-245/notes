@@ -1,1 +1,2 @@
-it is a data type in which we can store multiple items of same datatype into a single value and in contigous memory location
+- it is a data type in which we can store multiple items of same datatype into a single value and in contigous memory location
+- we can access it using *d*

@@ -41,6 +41,11 @@ int getMin(int arr[],int n)
     return min;
 
 }
+
+bool linearSearch(int arr[], int size,int key)
+{
+
+}
 int main()
 {
     // declare 
@@ -85,7 +90,9 @@ int main()
 
     // Linear Search
 
-    int arr[10] = {5,7,-2,10,22,-2,0,5,22,1];
+    int arr[10] = {5,7,-2,10,22,-2,0,5,22,1};
+    int key
+
 
 
 

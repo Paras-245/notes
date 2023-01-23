@@ -14,6 +14,9 @@ int main()
 
     cout << "Second :" << second[2] << endl;
 
+    int third[15] = {2,7};
+    for(int i = 0; i < n)
+
 
 
 }

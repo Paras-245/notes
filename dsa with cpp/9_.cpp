@@ -27,7 +27,7 @@ int main()
     int n = 15;
     // printing array
     printArray(third,15);
-    cout << "Printing array"<< endl;
+ 
     int fourth[10] = {0};
     // n = 10;
     // for(int i = 0; i < n;i++)
@@ -35,6 +35,7 @@ int main()
     //     cout << fourth[i] << ' ';
 
     // }
+    printArray(fourth,10);
 
 
 

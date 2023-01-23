@@ -130,12 +130,4 @@ int main()
     reverseArr(arr,11);
     printArray(arr,11);
 
-
-
-
-
-
-
-
-
 }

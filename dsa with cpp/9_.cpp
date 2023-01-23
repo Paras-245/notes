@@ -1,4 +1,5 @@
 #include<iostream>
+#include<limits.h>
 using namespace std;
 void printArray(int arr[],int size)
 {
@@ -79,6 +80,9 @@ int main()
     {
         cin >> num[i];
     }
+
+    cout << "maximum is " << getMax(num,size) << endl;
+    cout << "minimum is " << getMin(num,size) << endl;
 
 
 

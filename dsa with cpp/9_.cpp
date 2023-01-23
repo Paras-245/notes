@@ -1,13 +1,13 @@
 #include<iostream>
 using namespace std;
-void printArray(int arr[, int size])
+void printArray(int arr[],int size)
 {
-
-    for(int i = 0; i < n;i++)
+    cout << "Printing array"<< endl;
+    for(int i = 0; i < size;i++)
     {
-        cout << fourth[i] << ' ';
-
+        cout << arr[i] << ' ';
     }
+    cout << "Printing Done"<< endl;
 
 }
 int main()

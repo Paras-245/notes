@@ -63,7 +63,7 @@ void reverseArr(int arr[],int size)
     {
         temp = arr[end];
         arr[end] = arr[start];
-        arr[start] = arr[end];
+        arr[start] = temp;
         
     }
 
@@ -126,9 +126,9 @@ int main()
     //     cout << "not found";
     // }
 
-    int arr[10] = {5,7,-2,10,22,-2,0,5,22,1};
-    reverseArr(arr,10);
-    printArray(arr,10);
+    int arr[11] = {1,2,3,4,5,6,7,8,9,10,11};
+    reverseArr(arr,11);
+    printArray(arr,11);
 
 
 

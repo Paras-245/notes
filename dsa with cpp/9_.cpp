@@ -25,9 +25,9 @@ int main()
 
     int fourth[10] = {0};
     n = 10;
-     for(int i = 0; i < n;i++)
+    for(int i = 0; i < n;i++)
     {
-        cout << fourth[i]] << ' ';
+        cout << fourth[i] << ' ';
 
     }
 

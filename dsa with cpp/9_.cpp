@@ -34,7 +34,7 @@ int main()
 
     // }
     printArray(fourth,10);
-    int fourthsize = sizeof()
+    
 
 
 

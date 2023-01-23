@@ -20,11 +20,9 @@ int main()
 
     // initialising
     int second[3] = {4,3,2};
-
     cout << "Second :" << second[2] << endl;
 
     int third[15] = {2,7};
-    int n = 15;
     // printing array
     printArray(third,15);
  
@@ -36,6 +34,7 @@ int main()
 
     // }
     printArray(fourth,10);
+    
 
 
 

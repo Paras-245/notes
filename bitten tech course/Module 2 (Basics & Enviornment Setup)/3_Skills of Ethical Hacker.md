@@ -1,1 +1,3 @@
-- at least taught in cou
+-  at least taught in course
+- art of googling
+- 

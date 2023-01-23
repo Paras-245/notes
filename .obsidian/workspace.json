@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "acffb2cf373717e9",
+        "id": "f43c587b9bc6166a",
         "type": "tabs",
         "children": [
           {
-            "id": "ff71702216a55819",
+            "id": "142d52642548a62b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,8 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff71702216a55819",
+  "active": "142d52642548a62b",
   "lastOpenFiles": [
+    "bitten tech course/Module 1 (Introduction)/13_How to be a Ethical Hacker.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/3_Skills of Ethical Hacker.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/1_Advantages & Disadvantages of Cyber Security.md",
     "dsa with cpp/9_Intro to Array.md",
@@ -155,8 +157,6 @@
     "dsa with cpp/2_Write Our First Program in C++.md",
     "dsa with cpp/1_Intro To Programming and Flowcharts.md",
     "Untitled.canvas",
-    "bitten tech course/Module 1 (Introduction)/5_Who are Hackers.md",
-    "bitten tech course/Module 1 (Introduction)/6_Types of Hackers.md",
-    "bitten tech course/Module 1 (Introduction)/7_ Intro to Ethical Hacking.md"
+    "bitten tech course/Module 1 (Introduction)/5_Who are Hackers.md"
   ]
 }

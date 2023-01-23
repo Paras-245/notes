@@ -91,7 +91,10 @@ int main()
     // Linear Search
 
     int arr[10] = {5,7,-2,10,22,-2,0,5,22,1};
-    int key
+    int key;
+    cin >> key;
+    bool found = linerSearch(arr,10,key);
+    
 
 
 

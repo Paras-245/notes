@@ -83,6 +83,10 @@ int main()
     // cout << "maximum is " << getMax(num,size) << endl;
     // cout << "minimum is " << getMin(num,size) << endl;
 
+    // Linear Search
+
+    int arr[10] = {5,7,-2,10,22,-2,0,5,22,1];
+
 
 
 

@@ -1,3 +1,6 @@
 -  at least taught in course
 - art of googling
+- cryptography
+- social enginering
+- patience
 - 

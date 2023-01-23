@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1ed70029599f5463",
+        "id": "564e5766ba1a092e",
         "type": "tabs",
         "children": [
           {
-            "id": "d53f11c8dc74a725",
+            "id": "22ecb7dba1d1ad93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d53f11c8dc74a725",
+  "active": "22ecb7dba1d1ad93",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/3_Skills of Ethical Hacker.md",
     "bitten tech course/Module 1 (Introduction)/13_How to be a Ethical Hacker.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
@@ -156,7 +157,6 @@
     "dsa with cpp/8_Switch Statement & Functions.md",
     "dsa with cpp/2_Write Our First Program in C++.md",
     "dsa with cpp/1_Intro To Programming and Flowcharts.md",
-    "Untitled.canvas",
-    "bitten tech course/Module 1 (Introduction)/5_Who are Hackers.md"
+    "Untitled.canvas"
   ]
 }

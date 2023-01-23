@@ -37,7 +37,14 @@ int main()
 
     // array of diff types
 
-    char ch[5]= {'a','b'};
+    // char ch[5]= {'a','b'};
+
+    // max min
+
+    int size ;
+    cin >> size;
+    int num[size];
+    
 
 
 

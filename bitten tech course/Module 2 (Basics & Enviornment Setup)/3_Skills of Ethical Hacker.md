@@ -3,4 +3,4 @@
 - cryptography
 - social enginering
 - patience
-- 
+- always updated

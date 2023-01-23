@@ -35,7 +35,9 @@ int main()
     // }
     // printArray(fourth,10);
 
-    
+    // array of diff types
+
+    char ch[5]= {'a','b'};
 
 
 

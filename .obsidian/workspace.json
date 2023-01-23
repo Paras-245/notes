@@ -11,8 +11,12 @@
             "id": "f70d78411c6ee026",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md"
+              }
             }
           }
         ]
@@ -138,15 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62f6a2d2404b2a14",
+  "active": "f70d78411c6ee026",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/1_Advantages & Disadvantages of Cyber Security.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
     "dsa with cpp/9_Intro to Array.md",
     "dsa with cpp/8_Switch Statement & Functions.md",
     "dsa with cpp/2_Write Our First Program in C++.md",
     "dsa with cpp/1_Intro To Programming and Flowcharts.md",
     "Untitled.canvas",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/1_Advantages & Disadvantages of Cyber Security.md",
     "bitten tech course/Module 1 (Introduction)/5_Who are Hackers.md",
     "bitten tech course/Module 1 (Introduction)/6_Types of Hackers.md",
     "bitten tech course/Module 1 (Introduction)/7_ Intro to Ethical Hacking.md"

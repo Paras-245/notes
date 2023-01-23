@@ -20,4 +20,5 @@ shown in program
 ## Scope of arrayin function:
 if we try to change value of array passed by value by function then value of actual array will be changed
 - then if you do operations on array inside function then actual array will be changed
-## 
+## Homwork:
+1. get an array and give sum of elements of array

@@ -71,18 +71,19 @@ int main()
     // char ch[5]= {'a','b'};
 
     // max min
-
-    int size ;
-    cin >> size;
-    int num[100];
+    // int size ;
+    // cin >> size;
+    // int num[100];
     
-    for(int i = 0 ; i <size ;i++)
-    {
-        cin >> num[i];
-    }
+    // for(int i = 0 ; i <size ;i++)
+    // {
+    //     cin >> num[i];
+    // }
 
-    cout << "maximum is " << getMax(num,size) << endl;
-    cout << "minimum is " << getMin(num,size) << endl;
+    // cout << "maximum is " << getMax(num,size) << endl;
+    // cout << "minimum is " << getMin(num,size) << endl;
+
+    int arr[3] = {1,2,3};
 
 
 

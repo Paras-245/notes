@@ -12,7 +12,7 @@ int main()
     // initialising
     int second[3] = {4,3,2};
 
-    
+    cout << "Second :" << second[2] << endl;
 
 
 

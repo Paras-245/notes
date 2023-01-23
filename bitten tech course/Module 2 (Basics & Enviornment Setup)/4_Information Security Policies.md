@@ -1,0 +1,1 @@
+policies are rues or regulation made by a organization to ensure CIA 

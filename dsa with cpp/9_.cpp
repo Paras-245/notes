@@ -62,7 +62,8 @@ void reverseArr(int arr[],int size)
     for(;start < end;start++,end--)
     {
         temp = arr[end];
-        arr[]
+        arr[end] = arr[start];
+        arr[start] = arr[end];
         
     }
 
@@ -111,7 +112,7 @@ int main()
 
     // Linear Search
 
-    int arr[10] = {5,7,-2,10,22,-2,0,5,22,1};
+    // int arr[10] = {5,7,-2,10,22,-2,0,5,22,1};
     // int key;
     // cin >> key;
     // bool found = linearSearch(arr,10,key);
@@ -124,6 +125,10 @@ int main()
     // {
     //     cout << "not found";
     // }
+
+    int arr[10] = {5,7,-2,10,22,-2,0,5,22,1};
+    
+
 
 
 

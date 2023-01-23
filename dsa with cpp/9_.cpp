@@ -44,6 +44,10 @@ int getMin(int arr[],int n)
 
 bool linearSearch(int arr[], int size,int key)
 {
+    for(int i = 0;i < size;i++)
+    {
+        if(arr)
+    }
 
 }
 int main()
@@ -94,7 +98,15 @@ int main()
     int key;
     cin >> key;
     bool found = linerSearch(arr,10,key);
-    
+    if(found)
+    {
+        cout << "key found";
+    }
+
+    else
+    {
+        cout << "not found";
+    }
 
 
 

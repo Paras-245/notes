@@ -55,6 +55,11 @@ bool linearSearch(int arr[], int size,int key)
     return false;
 
 }
+
+void reverseArr(int arr[],int size)
+{
+    int start = 
+}
 int main()
 {
     // declare 

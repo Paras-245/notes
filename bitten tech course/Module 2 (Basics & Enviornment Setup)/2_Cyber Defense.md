@@ -1,1 +1,1 @@
-- it is a subsection of cyber
+- it is a subsection of cyber security

@@ -83,7 +83,6 @@ int main()
     // cout << "maximum is " << getMax(num,size) << endl;
     // cout << "minimum is " << getMin(num,size) << endl;
 
-    int arr[3] = {1,2,3};
 
 
 

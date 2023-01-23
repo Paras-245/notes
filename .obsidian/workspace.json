@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/8_Switch Statement & Functions.md",
+                "file": "dsa with cpp/9_Intro to Array.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/8_Switch Statement & Functions.md",
+                "file": "dsa with cpp/9_Intro to Array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/8_Switch Statement & Functions.md",
+                "file": "dsa with cpp/9_Intro to Array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/8_Switch Statement & Functions.md"
+                "file": "dsa with cpp/9_Intro to Array.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "758226b7c749b768",
   "lastOpenFiles": [
+    "dsa with cpp/8_Switch Statement & Functions.md",
     "dsa with cpp/9_Intro to Array.md",
     "dsa with cpp/2_Write Our First Program in C++.md",
     "dsa with cpp/1_Intro To Programming and Flowcharts.md",
@@ -156,7 +157,6 @@
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/1_Advantages & Disadvantages of Cyber Security.md",
     "bitten tech course/Module 1 (Introduction)/5_Who are Hackers.md",
     "bitten tech course/Module 1 (Introduction)/6_Types of Hackers.md",
-    "bitten tech course/Module 1 (Introduction)/7_ Intro to Ethical Hacking.md",
-    "bitten tech course/Module 1 (Introduction)/8_Information Warfare.md"
+    "bitten tech course/Module 1 (Introduction)/7_ Intro to Ethical Hacking.md"
   ]
 }

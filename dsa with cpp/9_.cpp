@@ -43,8 +43,8 @@ int main()
 
     int size ;
     cin >> size;
-    int num[size];
-    
+    int num[100];
+
 
 
 

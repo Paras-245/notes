@@ -26,20 +26,15 @@ int main()
     int third[15] = {2,7};
     int n = 15;
     // printing array
-    cout << "Printing array"<< endl;
-    for(int i = 0; i < n;i++)
-    {
-        cout << third[i] << ' ';
-
-    }
+    printArray(third,15);
     cout << "Printing array"<< endl;
     int fourth[10] = {0};
-    n = 10;
-    for(int i = 0; i < n;i++)
-    {
-        cout << fourth[i] << ' ';
+    // n = 10;
+    // for(int i = 0; i < n;i++)
+    // {
+    //     cout << fourth[i] << ' ';
 
-    }
+    // }
 
 
 

@@ -9,4 +9,3 @@ datatype arrayname[no_of_elements];
 ## Intitalization :
 int number[3] = {1,2,3};
 int array[10000] = {0}; it wil give al elements zero but not in other number case
-

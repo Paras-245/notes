@@ -10,6 +10,12 @@ void printArray(int arr[],int size)
     cout << "Printing Done"<< endl;
 
 }
+
+int getMax(int arr[],int n)
+{
+    int max = INT_MIN;
+    
+}
 int main()
 {
     // declare 
@@ -45,7 +51,7 @@ int main()
     cin >> size;
     int num[100];
     
-    for(int i = 0 ; i ,<size ;i++)
+    for(int i = 0 ; i <size ;i++)
     {
         cin >> num[i];
     }

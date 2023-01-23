@@ -5,4 +5,5 @@
 - trainings and evaluation
 - if database needs to be encrypted then every person should be aware and make changes accordingly
 - people are weakest part of defense
-- 
+- streamlined with goals and strategies
+- only appliciable within an organization

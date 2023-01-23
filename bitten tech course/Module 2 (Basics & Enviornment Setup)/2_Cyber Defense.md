@@ -1,1 +1,3 @@
-- it is a subsection of cyber security which is diff from corporate cyber security and it is more govern
+- it is a subsection of cyber security which is diff from corporate cyber security and it is more governmental side
+- Intelligence,planning,surveilance
+- it is about resisting attacks

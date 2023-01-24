@@ -10,10 +10,15 @@ void printArray(int arr[],int size)
     cout << "Printing Done"<< endl;
 
 }
+
+void swapAlternate()
 int main()
 {
     // Swap Alternate
     int arr[1,2,3,4,5,6,7];
-    print
+    printArray(arr,7);
+    swapAlternate(arr,7);
+    printArray(arr,7);
+
     
 }

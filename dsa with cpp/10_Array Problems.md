@@ -4,4 +4,4 @@
 Homework: [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 3. [Find duplicates](https://www.codingninjas.com/codestudio/problem-details/duplicate-in-array_893397): there are 1 to n -1 elements and from which one occuring twice
 vector is dynamic array
-- we first take xor of numbers 
+- we first take xor of elememen

@@ -32,7 +32,7 @@ int main()
     */
     int arr[]= {1,1,2,2,3,3,5};
     int ans = 0;
-    for(int i =0; i < 8 ;i++)
+    for(int i =0; i < 7;i++)
     {
         ans = ans ^ arr[i];
         cout << ans << ' ';

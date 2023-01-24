@@ -31,7 +31,7 @@ int main()
     printArray(arr,8);
     */
 
-    // find unique    
+    /*// find unique    
     int arr[]= {1,1,2,2,3,3,5};
     int ans = 0;
     for(int i =0; i < 7;i++)

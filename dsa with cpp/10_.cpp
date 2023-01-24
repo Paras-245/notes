@@ -38,7 +38,7 @@ int main()
     //     cout << ans << ' ';
     // }
 
-    cout << 1^0 << endl;
+    cout <<(1^)<< endl;
 
 
 

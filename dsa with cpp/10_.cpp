@@ -1,4 +1,5 @@
 #include<iostream>
+#include<limit.h>
 using namespace std;
 void printArray(int arr[],int size)
 {
@@ -54,9 +55,12 @@ int main()
             {
                 cout << arr1[i] << " ";
                 arr2[j] = INT_MIN;
+                intersection++;
             }
 		}
 	}
+
+    if(intersection)
 
    
 

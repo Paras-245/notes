@@ -1,2 +1,2 @@
 1. Swap Alternate :
-2. 
+2. find unique

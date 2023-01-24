@@ -13,12 +13,15 @@ void printArray(int arr[],int size)
 
 void swapAlternate(int arr[],int size)
 {
-    
+    for(int i = 0;i < size-1;i=i+2)
+    {
+        cout << arr[i] << " ";
+    }
 }
 int main()
 {
     // Swap Alternate
-    int arr[1,2,3,4,5,6,7];
+    int arr[]= {1,2,3,4,5,6,7};
     printArray(arr,7);
     swapAlternate(arr,7);
     printArray(arr,7);

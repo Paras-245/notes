@@ -6,4 +6,5 @@ Homework: [1207. Unique Number of Occurrences](https://leetcode.com/problems/un
 vector is dynamic array
 - we first take xor of elements and then take xor with (1 to  n -1) then only duplicate will be left
 Homework : 442.Find al duplicates in an array
-4. Array Intersection 
+4. [Array Intersection](https://www.codingninjas.com/codestudio/problem-details/duplicate-in-array_893397)
+5. 

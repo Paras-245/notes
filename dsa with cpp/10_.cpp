@@ -1,5 +1,5 @@
 #include<iostream>
-#include<limit.h>
+#include<limits.h>
 using namespace std;
 void printArray(int arr[],int size)
 {

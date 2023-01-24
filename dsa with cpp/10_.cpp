@@ -11,7 +11,10 @@ void printArray(int arr[],int size)
 
 }
 
-void swapAlternate()
+void swapAlternate(int arr[],int size)
+{
+    
+}
 int main()
 {
     // Swap Alternate

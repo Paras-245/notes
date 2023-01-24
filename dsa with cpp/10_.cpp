@@ -30,11 +30,11 @@ int main()
     swapAlternate(arr,8);
     printArray(arr,8);
     */
-    int ans = 0;
     int arr[]= {1,1,2,2,3,3,5};
+    int ans = arr[0];
     for(int i =0; i < 8 ;i++)
     {
-        ans = ans^arr[i];
+        ans = ans ^ arr[i];
     }
 
     cout << ans << endl;

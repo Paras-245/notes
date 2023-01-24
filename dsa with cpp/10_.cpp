@@ -45,27 +45,29 @@ int main()
     */
 
    
-   ///
-   int arr1[] = {1,2,3,4,5,6,7,8},arr2[] = {9,10,11,12,13,14};
+   // Intersection of arrays
+//    int arr1[] = {1,2,3,4,5,6,7,8},arr2[] = {9,10,11,12,13,14};
 
-   int intersection = 0;
-   for(int i = 0; i < 8;i++)
-	{
-		for(int j = 0 ; j<= arr1[i] && j < 6;j++)
-		{
-			if(arr2[j] == arr1[i])
-            {
-                cout << arr1[i] << " ";
-                arr2[j] = INT_MIN;
-                intersection++;
-            }
-		}
-	}
+//    int intersection = 0;
+//    for(int i = 0; i < 8;i++)
+// 	{
+// 		for(int j = 0 ; j<= arr1[i] && j < 6;j++)
+// 		{
+// 			if(arr2[j] == arr1[i])
+//             {
+//                 cout << arr1[i] << " ";
+//                 arr2[j] = INT_MIN;
+//                 intersection++;
+//             }
+// 		}
+// 	}
 
-    if(intersection==0)
-    {
-        cout << -1 <<endl;
-    }
+//     if(intersection==0)
+//     {
+//         cout << -1 <<endl;
+//     }
+    // int this case we are getting tle
+    
 
    
 

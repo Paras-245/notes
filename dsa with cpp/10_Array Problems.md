@@ -3,3 +3,4 @@
 - here we use the xor property bcs it will cancel out the similar elements
 Homework: [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 3. [Find duplicates](https://www.codingninjas.com/codestudio/problem-details/duplicate-in-array_893397): 
+vector is dynamic array

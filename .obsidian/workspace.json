@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "54d980ade5838858",
+        "id": "fd0156cb2375ba0a",
         "type": "tabs",
         "children": [
           {
-            "id": "26eeb75292019886",
+            "id": "a74a986c3ed85579",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa with cpp/10_Array Problems.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dsa with cpp/10_Array Problems.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26eeb75292019886",
+  "active": "62f6a2d2404b2a14",
   "lastOpenFiles": [
+    "dsa with cpp/10_Array Problems.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/3_Skills of Ethical Hacker.md",
@@ -156,7 +149,6 @@
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/1_Advantages & Disadvantages of Cyber Security.md",
     "dsa with cpp/9_Intro to Array.md",
     "dsa with cpp/8_Switch Statement & Functions.md",
-    "dsa with cpp/2_Write Our First Program in C++.md",
-    "dsa with cpp/1_Intro To Programming and Flowcharts.md"
+    "dsa with cpp/2_Write Our First Program in C++.md"
   ]
 }

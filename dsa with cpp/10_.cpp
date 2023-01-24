@@ -52,7 +52,8 @@ int main()
 		{
 			if(arr2[j] == arr1[i])
             {
-                
+                cout << arr1[i] << " ";
+                arr2[j] = INT_MIN;
             }
 		}
 	}

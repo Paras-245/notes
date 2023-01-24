@@ -30,15 +30,17 @@ int main()
     swapAlternate(arr,8);
     printArray(arr,8);
     */
-    // int arr[]= {1,1,2,2,3,3,5};
-    // int ans = 0;
-    // for(int i =0; i < 7;i++)
-    // {
-    //     ans = ans ^ arr[i];
-    //     cout << ans << ' ';
-    // }
 
-    cout <<(1^)<< endl;
+    // find unique    
+    int arr[]= {1,1,2,2,3,3,5};
+    int ans = 0;
+    for(int i =0; i < 7;i++)
+    {
+        // ans = ans ^ arr[i];
+        cout << ans << ' ';
+    }
+
+   
 
 
 

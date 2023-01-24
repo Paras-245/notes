@@ -60,7 +60,10 @@ int main()
 		}
 	}
 
-    if(intersection)
+    if(intersection==0)
+    {
+        cout << -1 <<endl;
+    }
 
    
 

@@ -8,4 +8,4 @@ Linux
 ## Evolution of linux :
 - started in 1969 at bell labortries in c language
 - 1991 linus write his own unix and make it freely available 
-- programmers have modified it and released differ
+- programmers have modified it and released different flavours

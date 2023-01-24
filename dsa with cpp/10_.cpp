@@ -24,12 +24,14 @@ void swapAlternate(int arr[],int size)
 }
 int main()
 {
-    */// Swap Alternate
+    /*// Swap Alternate
     int arr[]= {1,2,3,4,5,6,7,8};
     printArray(arr,8);
     swapAlternate(arr,8);
     printArray(arr,8);
     */
+
+   
 
     
 }

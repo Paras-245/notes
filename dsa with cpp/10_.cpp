@@ -43,7 +43,16 @@ int main()
     cout << ans<<endl;
     */
 
-   int arr1[] = {1,2,3,4,5,6,7,8},arr;
+   int arr1[] = {1,2,3,4,5,6,7,8},arr2[] = {5,6,7,8,9,10};
+
+   int intersection = 0;
+   for(int i = 0; i < 10;i++)
+	{
+		for(int j = 0 ; j<= arr1[i] && j < m;j++)
+		{
+			if()
+		}
+	}
 
    
 

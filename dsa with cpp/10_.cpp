@@ -46,11 +46,14 @@ int main()
    int arr1[] = {1,2,3,4,5,6,7,8},arr2[] = {5,6,7,8,9,10};
 
    int intersection = 0;
-   for(int i = 0; i < 10;i++)
+   for(int i = 0; i < 8;i++)
 	{
-		for(int j = 0 ; j<= arr1[i] && j < m;j++)
+		for(int j = 0 ; j<= arr1[i] && j < 6;j++)
 		{
-			if()
+			if(arr2[j] == arr1[i])
+            {
+                
+            }
 		}
 	}
 

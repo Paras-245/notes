@@ -49,7 +49,7 @@ void sortOne(int arr[],int size)
 void sort012(int arr[],int size)
 {
     int start =0,end = size -1,current = 0;
-    while(start < end)
+    while(current != end)
     {
         if(arr[current] == 0)
         {

@@ -46,7 +46,10 @@ void sortOne(int arr[],int size)
     }
 }
 
-int sort012(int arr[],int size);
+int sort012(int arr[],int size)
+{
+    
+}
 int main()
 {
     /*// Swap Alternate

@@ -11,4 +11,5 @@ Homework : 442.Find al duplicates in an array
 take loop from starting of array and start another loop from i+1.
 and sort with sort(func)
 Homework : [3Sum](https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028)
- 7. [Sort 0 1 2]()
+ 7. [Sort 0 1 2](https://www.codingninjas.com/codestudio/problems/sort-0-1-2_631055)
+ 8. 

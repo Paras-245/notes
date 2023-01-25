@@ -27,7 +27,15 @@ void swapAlternate(int arr[],int size)
 void sortOne(int arr[],int size)
 {
     int start = 0,end = size -1;
-    f
+    while(start < end)
+    {
+        if(arr[start] == 0)
+        {
+            start++;
+        }
+
+        else if(arr[end])
+    }
 }
 int main()
 {

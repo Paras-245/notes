@@ -45,6 +45,8 @@ void sortOne(int arr[],int size)
         end--;
     }
 }
+
+int sort012(int arr[],int size);
 int main()
 {
     /*// Swap Alternate
@@ -116,8 +118,9 @@ int main()
     printArray(arr,8);
     */
 
-   int arr[] = {0 ,1, 2 ,2 ,1 ,0};
-   sort012(arr,)
+   int arr[] = {0 ,1, 2 ,2 ,1 ,0},size = 6;
+   sort012(arr,size);
+   printArray(arr,size);
    
 
 

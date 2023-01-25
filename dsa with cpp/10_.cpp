@@ -89,7 +89,9 @@ int main()
     */
 
     // sort 1 2
-    int arr[]
+    int arr[] = {1,1,0,0,0,0,1,0};
+    sortOne(arr,8);
+    printArray(ar)
    
 
 

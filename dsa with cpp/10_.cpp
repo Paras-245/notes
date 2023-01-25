@@ -53,8 +53,12 @@ void sort012(int arr[],int size)
     {
         if(arr[current] == 0)
         {
+            swap(arr[current],arr[start]);
+            start++;
+            current++;
 
         }
+        
        
     }
 }

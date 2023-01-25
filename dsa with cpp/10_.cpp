@@ -77,7 +77,11 @@ int main()
         {
             for(int k = j+1;k < size;k++)
             {
-                if(arr[i]+arr[j]+arr[k] == target && arr[i] != arr[j] && arr[i] != arr[j])
+                if(arr[i]+arr[j]+arr[k] == target && arr[i] != arr[j] && arr[i] != arr[k] && arr[k] != arr[j])
+                {
+                    cout << arr[i]<< " "<< arr[j] << " " << arr[k] << endl;
+                }
+
             }
 
         }

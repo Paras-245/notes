@@ -58,7 +58,15 @@ void sort012(int arr[],int size)
             current++;
 
         }
-        
+        else if(arr[current] == 1)
+        {
+            current++;
+        }
+        else
+        {
+            swap(arr[current],arr[end]);
+            end--;
+        }
        
     }
 }

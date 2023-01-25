@@ -15,4 +15,5 @@
 1. Constant Time -> O(1)
 2. Linear Time -> O(n)
 3. Logarithmic Time -> O(log n)
-4.  Linear Time -> O(n2)
+4. Quadritic Time -> O(n2)
+5. Cubic Time -> O(n3)

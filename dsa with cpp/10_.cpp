@@ -65,7 +65,7 @@ void sort012(int arr[],int size)
         }
         else if(arr[end] == 1)
         {
-            swap(arr[end])
+            swap(arr[end],arr[end-1]);
         }
         else
         {

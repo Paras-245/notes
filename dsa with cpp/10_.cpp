@@ -49,7 +49,7 @@ void sortOne(int arr[],int size)
 void sort012(int arr[],int size)
 {
     int start =0,end = size -1,current = 0;
-    while(current!=end)
+    while(start < end)
     {
         if(arr[current] == 0)
         {
@@ -67,6 +67,8 @@ void sort012(int arr[],int size)
             swap(arr[current],arr[end]);
             end--;
         }
+
+        printArray(arr,size);
        
     }
 }

@@ -8,4 +8,9 @@
 
 ## Notations or Units of Time Complaxity :
 1. Big O notation : upper bound or worst case
-2. Theta : avera
+2. Theta : average case complexity
+3. Omega : lower bound
+
+## Times :
+1. Constant Time -> O(1)
+2. LI

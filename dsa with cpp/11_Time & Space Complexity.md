@@ -13,4 +13,6 @@
 
 ## Times :
 1. Constant Time -> O(1)
-2. LI
+2. Linear Time -> O(n)
+3. Logarithmic Time -> O(log n)
+4.  Linear Time -> O(n2)

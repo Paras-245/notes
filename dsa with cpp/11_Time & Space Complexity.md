@@ -4,4 +4,6 @@
 - It is amount of time taken by an algorithm to run
 - as a function of length of the input
 - for making better programs and comparison of algo
- - we cant compare algo 
+- we cant compare algo with speed of machine
+
+## 

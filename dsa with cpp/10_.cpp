@@ -77,7 +77,7 @@ int main()
         {
             for(int k = j+1;k < size;k++)
             {
-                if(arr[i]+arr[j]+arr[k] == target && )
+                if(arr[i]+arr[j]+arr[k] == target && arr[i] != arr[j] && arr[i] != arr[j])
             }
 
         }

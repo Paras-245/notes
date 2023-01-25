@@ -69,6 +69,9 @@ int main()
     // int this case we are getting tle
     */
     
+    // 3 SUM
+    int arr[] = {10, 5 ,5 ,5, 2 ,12};
+    for(int i == )
 
    
 

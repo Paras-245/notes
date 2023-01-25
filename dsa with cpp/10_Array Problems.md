@@ -9,3 +9,4 @@ Homework : 442.Find al duplicates in an array
 4. [Array Intersection](https://www.codingninjas.com/codestudio/problem-details/duplicate-in-array_893397)
 5. [Pair sum](https://www.codingninjas.com/codestudio/problems/pair-sum_697295)
 take loop from starting of array and start another loop from i+1.
+and sort with sort(func)

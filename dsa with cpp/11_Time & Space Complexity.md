@@ -6,4 +6,6 @@
 - for making better programs and comparison of algo
 - we cant compare algo with speed of machine
 
-## 
+## Notations or Units of Time Complaxity :
+1. Big O notation : upper bound or worst case
+2. Theta : avera

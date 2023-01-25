@@ -46,7 +46,7 @@ void sortOne(int arr[],int size)
     }
 }
 
-int sort012(int arr[],int size)
+void sort012(int arr[],int size)
 {
     int start =0,end = size -1;
     while(start < end)
@@ -57,6 +57,11 @@ int sort012(int arr[],int size)
         }
         else if(arr[end] == 2)
         {
+            end--;
+        }
+        else
+        {
+            start++;
             end--;
         }
         

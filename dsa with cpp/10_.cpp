@@ -70,8 +70,11 @@ int main()
     */
     
     // 3 SUM
-    int arr[] = {10, 5 ,5 ,5, 2 ,12};
-    for(int i == )
+    int arr[] = {10, 5 ,5 ,5, 2 ,12},target = 12;
+    for(int i =0 ;i < 5;i++)
+    {
+        for(j = i +1)
+    }
 
    
 

@@ -48,32 +48,14 @@ void sortOne(int arr[],int size)
 
 void sort012(int arr[],int size)
 {
-    int start =0,end = size -1;
+    int start =0,end = size -1,current = 0;
     while(start < end)
     {
-        if(arr[start] == 0)
+        if(arr[current] == 0)
         {
-            start++;
+
         }
-        else if(arr[end] == 2)
-        {
-            end--;
-        }
-        else if(arr[start] == 2)
-        else if(arr[start] == 1)
-        {
-            swap(arr[start],arr[start+1]);
-        }
-        else if(arr[end] == 1)
-        {
-            swap(arr[end],arr[end-1]);
-        }
-        else
-        {
-            start++;
-            end--;
-        }
-        
+       
     }
 }
 int main()

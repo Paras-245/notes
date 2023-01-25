@@ -88,6 +88,8 @@ int main()
     }
     */
 
+    // sort 1 2
+    int arr[]
    
 
 

@@ -51,7 +51,15 @@ int sort012(int arr[],int size)
     int start =0,end = size -1;
     while(start < end)
     {
-        if(arr[start])
+        if(arr[start] == 0)
+        {
+            start++;
+        }
+        else if(arr[end] == 2)
+        {
+            end--;
+        }
+        
     }
 }
 int main()

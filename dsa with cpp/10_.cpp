@@ -34,7 +34,12 @@ void sortOne(int arr[],int size)
             start++;
         }
 
-        else if(arr[end])
+        else if(arr[end] == 1)
+        {
+            end--;
+        }
+
+        else(swap(arr[start],arr[end]));
     }
 }
 int main()

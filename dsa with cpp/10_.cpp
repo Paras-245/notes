@@ -69,7 +69,7 @@ int main()
     // int this case we are getting tle
     */
     
-    // 3 SUM
+    /*// 3 SUM
     int arr[] = {1,2,3,1,2,3},target = 6,size = 6;
     for(int i =0 ;i < size;i++)
     {
@@ -86,6 +86,7 @@ int main()
 
         }
     }
+    */
 
    
 

@@ -7,4 +7,5 @@ vector is dynamic array
 - we first take xor of elements and then take xor with (1 to  n -1) then only duplicate will be left
 Homework : 442.Find al duplicates in an array
 4. [Array Intersection](https://www.codingninjas.com/codestudio/problem-details/duplicate-in-array_893397)
-5. 
+5. [Pair sum](https://www.codingninjas.com/codestudio/problems/pair-sum_697295)
+take loop from starting of array and start another loop from i+1

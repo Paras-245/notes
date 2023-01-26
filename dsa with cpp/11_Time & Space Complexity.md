@@ -25,5 +25,5 @@
 1. printing of array O(N)
 2. reversing of array : O(N)
 3. Linear Search: O(N)
-
-
+4. Get Minimum from array:O(N)
+5. 

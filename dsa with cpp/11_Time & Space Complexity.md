@@ -1,3 +1,4 @@
+
 ## Complexity:
 - to identify which algorithm is better to use and which is fast.
 ## Time complexity :
@@ -17,3 +18,5 @@
 3. Logarithmic Time -> O(log n)
 4. Quadritic Time -> O(n2)
 5. Cubic Time -> O(n3)
+
+

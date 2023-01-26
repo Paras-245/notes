@@ -22,4 +22,5 @@
 ## Solving Questions :
 - ignore constants and lower degree
 
+1. printing of array O(N)
 

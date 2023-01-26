@@ -26,5 +26,6 @@
 3. Linear Search: O(N)
 4. Get Minimum from array:O(N)
 
-## 
+## How to avoid Tle :
+10^8 operation rule : modern machines perform this operations per second
 

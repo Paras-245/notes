@@ -19,3 +19,7 @@
 4. Quadritic Time -> O(n2)
 5. Cubic Time -> O(n3)
 
+## Solving Questions :
+- ignore constants and lower degree
+
+

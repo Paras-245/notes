@@ -211,7 +211,7 @@
   "cMenuVisibility": true,
   "cMenuBottomValue": 4.25,
   "cMenuNumRows": 12,
-  "cMenuWidth": 774,
+  "cMenuWidth": 502,
   "cMenuFontColor": "#2DC26B",
   "cMenuBackgroundColor": "#b1ffff",
   "autohide": false

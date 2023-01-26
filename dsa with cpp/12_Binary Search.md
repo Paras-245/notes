@@ -1,2 +1,3 @@
 - binary search only work only on monotonic(either increasing order or decreasing order)
-- 
+- first find middle of array then check for the key.
+- if key

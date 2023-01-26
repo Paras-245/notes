@@ -20,5 +20,10 @@
 5. Cubic Time -> O(n3)
 
 |Complexities|
---------
+-----
 |O(N!)|
+
+
+
+#
+

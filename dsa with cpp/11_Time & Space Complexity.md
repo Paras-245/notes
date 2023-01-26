@@ -29,3 +29,6 @@
 ## How to avoid Tle :
 10^8 operation rule : modern machines perform this operations per second
 
+## Space Complexity :
+- how much memory our algo going to take 
+

@@ -19,11 +19,3 @@
 4. Quadritic Time -> O(n2)
 5. Cubic Time -> O(n3)
 
-|Complexities|
------
-|O(N!)|
-
-
-
-#
-

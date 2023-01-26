@@ -151,7 +151,7 @@ int main()
 
     //Homework
     // 1. Unique number of occurences
-    int arr[] = {1,2,2,1,1,3},count[100];
+    int arr[] = {1,2,2,1,1,3},count[1000];
 
 
 

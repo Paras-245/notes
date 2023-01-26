@@ -1,1 +1,2 @@
-- binary search only work only on monotonic(either d)
+- binary search only work only on monotonic(either increasing order or decreasing order)
+- 

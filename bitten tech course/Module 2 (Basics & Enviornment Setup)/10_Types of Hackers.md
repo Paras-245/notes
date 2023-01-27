@@ -11,3 +11,6 @@
 - similar to white hat
 - halting the acts of blackhat 
 - just to control and stop blackhat
+## Hacktivists :
+- online version of activist
+- hack government to raise voice for polititcal and social cause

@@ -7,4 +7,7 @@
 - listen and learn with undivided attention
 ## Blue Hat :
 - learn to get revenge , no desire to actually learn
-## 
+## Red Hat :
+- similar to white hat
+- halting the acts of blackhat 
+- just to control and stop blackhat

@@ -1,2 +1,4 @@
 ## Script kiddies :
-- amat
+- amateur without coding skills
+- uses others tools and try to get attention and impress others
+- 

@@ -29,8 +29,8 @@ int firstOccurence(int arr[],int n,int key)
 }
 int main()
 {
-    int even[] = {1,2,3,3,5};
-    cout << firstOccurence
+    int even[] = {1,3,3,3,5};
+    cout << firstOccurence(even,5,3) << endl;; 
 
 
 }

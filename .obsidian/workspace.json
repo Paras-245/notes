@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1707ff797058eb9b",
+        "id": "15af4688846b7cda",
         "type": "tabs",
         "children": [
           {
-            "id": "0bf41bfb394b1214",
+            "id": "2d1b0bab55087510",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0bf41bfb394b1214",
+  "active": "2d1b0bab55087510",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/8_Advantages of linux.md",
     "dsa with cpp/13_Binary Search Questions.md",
     "dsa with cpp/7_Leetcode Problems.md",
@@ -156,7 +157,6 @@
     "dsa with cpp/11_Time & Space Complexity.md",
     "dsa with cpp/10_Array Problems.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/6_Introduction to OS Linux and it’s Evolution.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md"
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md"
   ]
 }

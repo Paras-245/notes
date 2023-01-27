@@ -14,3 +14,7 @@
 ## Hacktivists :
 - online version of activist
 - hack government to raise voice for polititcal and social cause
+- sometimes stop working of organization
+## Whistleblowers :
+- secret agents with insider threats
+- 

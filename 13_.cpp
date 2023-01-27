@@ -13,20 +13,24 @@ int firstOccurence(int arr[],int n,int key)
         }
         else if (key > arr[mid]) // right
         {
+            s = mid+1;
 
         }
-
-        else if(key < arr[mid])
+        else if(key < arr[mid])// left 
         {
+            e = mid-1;
 
         }
-    }
 
-    mind = s+(e-s)/2;
+        mid = s+(e-s)/2;
+    }
+    return ans;
+    
 }
 int main()
 {
     int even[] = {1,2,3,3,5};
+    cout << firstOccurence
 
 
 }

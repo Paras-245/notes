@@ -17,4 +17,6 @@
 - sometimes stop working of organization
 ## Whistleblowers :
 - secret agents with insider threats
-- 
+- exposes secret info with private organization
+- maybe hired
+

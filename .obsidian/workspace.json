@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "83f0a4d2c8688911",
+        "id": "1707ff797058eb9b",
         "type": "tabs",
         "children": [
           {
-            "id": "1e665f8b8d4e0366",
+            "id": "0bf41bfb394b1214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/8_Advantages of linux.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/8_Advantages of linux.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/8_Advantages of linux.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/8_Advantages of linux.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e665f8b8d4e0366",
+  "active": "0bf41bfb394b1214",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/8_Advantages of linux.md",
     "dsa with cpp/13_Binary Search Questions.md",
     "dsa with cpp/7_Leetcode Problems.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/7_Major Linux Distributions.md",
@@ -156,7 +157,6 @@
     "dsa with cpp/10_Array Problems.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/6_Introduction to OS Linux and it’s Evolution.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/3_Skills of Ethical Hacker.md"
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md"
   ]
 }

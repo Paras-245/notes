@@ -5,3 +5,6 @@
 - curious script kiddies
 - engrossed in communities
 - listen and learn with undivided attention
+## Blue Hat :
+- learn to get revenge , no desire to actually learn
+## 

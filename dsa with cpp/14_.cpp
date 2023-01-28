@@ -54,7 +54,9 @@ int main()
    //find sqrt of number using binary search
    int n;
    cin >> n;
-   cout << sqrtInt(n) << endl;
+   
+   int tempSol = sqrtInt(n);
+   cout << "More precision sqroot is "<< morePrecision()
    
 
  

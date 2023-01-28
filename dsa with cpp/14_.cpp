@@ -43,6 +43,10 @@ int sqrtInt(int n)
     return ans;
 }
 
+double morePrecision(int n,int precision,int tempSol)
+{
+    
+}
 
 int main()
 {
@@ -56,7 +60,7 @@ int main()
    cin >> n;
    
    int tempSol = sqrtInt(n);
-   cout << "More precision sqroot is "<< morePrecision()
+   cout << "More precision sqroot is "<< morePrecision(n,3,tempSol);
    
 
  

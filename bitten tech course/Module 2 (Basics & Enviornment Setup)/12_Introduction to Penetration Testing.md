@@ -1,3 +1,3 @@
 - authorized stimulated attack on the system to evaluate system security
 - can be done mannualy or automated
-- 
+- ethical hacking is learning , but penetration testing is implementing

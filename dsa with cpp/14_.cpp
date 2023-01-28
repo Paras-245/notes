@@ -9,16 +9,13 @@ int getPivot(int arr[],int n)
         {
             s = mid+1;
         }
-
         else
         {
-            e = mid;
-            
+            e = mid;  
         }
         mid = s+(e-s)/2;
     }
     return s;
-        
 
 }
 int main()

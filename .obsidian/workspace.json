@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "8dbfcc71a86c9fed",
+    "type": "split",
+    "children": [
+      {
+        "id": "17a71135035f8ccb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "165bc2ed905dc867",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eec3fe78b3fce7a7",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cb7d08aec27c5d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62f6a2d2404b2a14",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ecf705afd1ee5722",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "18a528fd2bc0850d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5be526374b47959e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7b53500a902c5d25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e13987182159366",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a8d441beb697061c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57dbbcec6f1388d2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "34d7c59ee84bb56c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "165bc2ed905dc867",
+  "lastOpenFiles": [
+    "bitten tech course/Module 1 (Introduction)/1_Intro To Information Security.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/10_Types of Hackers.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/8_Advantages of linux.md",
+    "dsa with cpp/13_Binary Search Questions.md",
+    "dsa with cpp/7_Leetcode Problems.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/7_Major Linux Distributions.md",
+    "dsa with cpp/12_Binary Search.md",
+    "dsa with cpp/11_Time & Space Complexity.md",
+    "dsa with cpp/10_Array Problems.md"
+  ]
+}

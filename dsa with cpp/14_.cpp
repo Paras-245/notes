@@ -24,4 +24,10 @@ int main()
     int arr[5] = {8,10,17,1,3};
     cout << "Pivot is " << getPivot(arr,5)<<endl; 
     */
+
+   // search in rotated and sorted array
+
+   int arr[5] = {8,10,17,1,3};
+   cout << 
+
 }

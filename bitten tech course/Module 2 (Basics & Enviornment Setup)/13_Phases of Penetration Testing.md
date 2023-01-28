@@ -3,4 +3,5 @@
 3. Threat Modelling and Vulnerability indentification : model of security concerns and vulnerability ranking
 4. Exploitation : gain access by breaching security or finding bug to exploit in software
 5. Post Exploitation : determining value of assets compromised and further atack propagation(measure further chain hacks)
-6. Reporting : we dont report in ethical hacking , detailing the vulnerabilites found
+6. Reporting : we dont report in ethical hacking , detailing the vulnerabilites found , stating impact and bug findings
+7. Resolution and retesting : resolving the bugs you found

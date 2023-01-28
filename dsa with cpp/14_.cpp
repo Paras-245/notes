@@ -45,7 +45,11 @@ int sqrtInt(int n)
 
 double morePrecision(int n,int precision,int tempSol)
 {
-    
+    double factor = 1;
+    for(int i = 0; i < precision;i++)
+    {
+        factor = factor
+    }
 }
 
 int main()

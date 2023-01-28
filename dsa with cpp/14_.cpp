@@ -18,6 +18,14 @@ int getPivot(int arr[],int n)
     return s;
 
 }
+int getSqrt(int n)
+{
+    int s = 0,e = 
+    while(true)
+    {
+        
+    }
+}
 
 
 int main()
@@ -30,7 +38,7 @@ int main()
    //find sqrt of number using binary search
    int n;
    cin >> n;
-   cout << getSqrt(n);
+   cout << getSqrt(n) << endl;
    
 
  

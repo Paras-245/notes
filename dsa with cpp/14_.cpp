@@ -27,9 +27,8 @@ int main()
     cout << "Pivot is " << getPivot(arr,5)<<endl; 
     */
 
-   // search in rotated and sorted array
+   //find sqrt of number 
 
-   int arr[5] = {8,10,17,1,3};
-   cout << "index is" << searchRotated(arr,5);
+ 
 
 }

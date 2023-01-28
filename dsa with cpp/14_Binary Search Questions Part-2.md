@@ -5,4 +5,4 @@
 - there are also two other approaches
 3. [Square root using binary search](https://www.codingninjas.com/codestudio/problem-details/square-root-of-an-integer_1089689)
 - we can say that sqroot of n lies btween 0 to n is called **Search Space**.
-- 
+

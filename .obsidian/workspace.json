@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "93e76d20fb014ab1",
+        "id": "bcf109fd0c1ac22d",
         "type": "tabs",
         "children": [
           {
-            "id": "22cca59a92d3df4b",
+            "id": "1cd2b37aea792ba3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "22cca59a92d3df4b",
+  "active": "1cd2b37aea792ba3",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/11_Phases of Ethical Hacking.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/10_Types of Hackers.md",
@@ -156,7 +149,6 @@
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/3_Skills of Ethical Hacker.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
-    "bitten tech course/Module 1 (Introduction)/7_ Intro to Ethical Hacking.md",
-    "bitten tech course/Module 1 (Introduction)/8_Information Warfare.md"
+    "bitten tech course/Module 1 (Introduction)/7_ Intro to Ethical Hacking.md"
   ]
 }

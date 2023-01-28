@@ -28,6 +28,6 @@ int main()
    // search in rotated and sorted array
 
    int arr[5] = {8,10,17,1,3};
-   cout << 
+   cout << "index is" << searchRotated(arr,)
 
 }

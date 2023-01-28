@@ -4,4 +4,5 @@
 - first find pivot then check the conditon in which part of rotated array the target is to be searched and in last apply binary search
 - there are also two other approaches
 3. [Square root using binary search](https://www.codingninjas.com/codestudio/problem-details/square-root-of-an-integer_1089689)
-- we can say that sqroot of n lies btween 0 to n is called **Search Space**
+- we can say that sqroot of n lies btween 0 to n is called **Search Space**.
+- 

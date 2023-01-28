@@ -48,7 +48,8 @@ double morePrecision(int n,int precision,int tempSol)
     double factor = 1;
     for(int i = 0; i < precision;i++)
     {
-        factor = factor
+        factor = factor/10;
+        for(int j = 0;j*j<n;j=j+factor)
     }
 }
 

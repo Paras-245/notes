@@ -18,6 +18,11 @@ int getPivot(int arr[],int n)
     return s;
 
 }
+
+int searchRotated(int arr[],int n)
+{
+    
+}
 int main()
 {
     /*// find pivot in array
@@ -28,6 +33,6 @@ int main()
    // search in rotated and sorted array
 
    int arr[5] = {8,10,17,1,3};
-   cout << "index is" << searchRotated(arr,)
+   cout << "index is" << searchRotated(arr,5);
 
 }

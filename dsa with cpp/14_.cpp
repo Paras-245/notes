@@ -30,8 +30,14 @@ int getSqrt(int n)
         }
         else if(mid*mid <=n)
         {
+            ans = mid;
             s = mid;   
         }
+        else
+        {
+            return mid;
+        }
+        mid = s+(e-s)/2;
         
     }
 }

@@ -19,10 +19,7 @@ int getPivot(int arr[],int n)
 
 }
 
-int searchRotated(int arr[],int n)
-{
-    
-}
+
 int main()
 {
     /*// find pivot in array

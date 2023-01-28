@@ -20,9 +20,11 @@ int getPivot(int arr[],int n)
 }
 int getSqrt(int n)
 {
-    int s = 0,e = 
+    int s = 0,e = n-1;
+    int mid = s+(e-s)/2;
     while(true)
     {
+        if(mid )
         
     }
 }

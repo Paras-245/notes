@@ -1,3 +1,5 @@
 1. Pivot in the array :
 - we have a sorted and a rotated array.
-2. [Search in a rotated array]
+2. [Search in a rotated array](https://www.codingninjas.com/codestudio/problem-details/search-in-rotated-sorted-array_1082554
+3. 
+4. )

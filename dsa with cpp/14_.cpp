@@ -22,7 +22,7 @@ int getSqrt(int n)
 {
     int s = 0,e = n-1,ans = s;
     int mid = s+(e-s)/2;
-    while(s<e)
+    while(s<=e)
     {
         if(mid*mid > n)
         {
@@ -40,6 +40,7 @@ int getSqrt(int n)
         mid = s+(e-s)/2;
         
     }
+    return ans;
 }
 
 

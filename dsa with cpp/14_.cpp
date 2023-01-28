@@ -3,8 +3,16 @@ using namespace std;
 int getPivot(int arr[],int n)
 {
     int s = 0,e = n-1,mid = s+(e-s)/2;
-    
-    
+        if(arr[mid] >= arr[0])
+        {
+            s = mid+1;
+        }
+
+        else
+        {
+            
+        }
+        
 
 }
 int main()

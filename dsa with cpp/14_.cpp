@@ -27,7 +27,11 @@ int main()
     cout << "Pivot is " << getPivot(arr,5)<<endl; 
     */
 
-   //find sqrt of number 
+   //find sqrt of number using binary search
+   int n;
+   cin >> n;
+   cout << getSqrt(n);
+   
 
  
 

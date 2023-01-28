@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "7165b91c2254b0da",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/3_Skills of Ethical Hacker.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/1_Advantages & Disadvantages of Cyber Security.md",
+    "bitten tech course/Module 1 (Introduction)/13_How to be a Ethical Hacker.md",
+    "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
     "bitten tech course/Module 1 (Introduction)/10_Careers in Ethical Hacking.md",
     "bitten tech course/Module 1 (Introduction)/9_Need for Ethical Hackers.md",
     "bitten tech course/Module 1 (Introduction)/8_Information Warfare.md",
     "bitten tech course/Module 1 (Introduction)/7_ Intro to Ethical Hacking.md",
-    "bitten tech course/Module 1 (Introduction)/6_Types of Hackers.md",
-    "bitten tech course/Module 1 (Introduction)/5_Who are Hackers.md",
-    "bitten tech course/Module 1 (Introduction)/3_Intro to Cybersecurity.md",
-    "bitten tech course/Module 1 (Introduction)/4_CIA Traid.md",
-    "bitten tech course/Module 1 (Introduction)/2_Information Security Threats.md",
-    "bitten tech course/Module 1 (Introduction)/1_Intro To Information Security.md"
+    "bitten tech course/Module 1 (Introduction)/6_Types of Hackers.md"
   ]
 }

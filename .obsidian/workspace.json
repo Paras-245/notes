@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcf109fd0c1ac22d",
+        "id": "733a0e97710b2b9e",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd2b37aea792ba3",
+            "id": "9a1da01e404d2d5c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1cd2b37aea792ba3",
+  "active": "9a1da01e404d2d5c",
   "lastOpenFiles": [
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/11_Phases of Ethical Hacking.md",

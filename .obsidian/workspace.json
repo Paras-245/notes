@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/15_Binary Search Question Part-3.md",
+                "file": "dsa with cpp/14_Binary Search Questions Part-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/15_Binary Search Question Part-3.md",
+                "file": "dsa with cpp/14_Binary Search Questions Part-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/15_Binary Search Question Part-3.md",
+                "file": "dsa with cpp/14_Binary Search Questions Part-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/15_Binary Search Question Part-3.md"
+                "file": "dsa with cpp/14_Binary Search Questions Part-2.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "41f9953a19b1ab35",
   "lastOpenFiles": [
+    "dsa with cpp/13_Binary Search Questions Part-1.md",
+    "dsa with cpp/15_Binary Search Question Part-3.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/11_Phases of Ethical Hacking.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md",
@@ -155,8 +157,6 @@
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/6_Introduction to OS Linux and it’s Evolution.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/3_Skills of Ethical Hacker.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/2_Cyber Defense.md",
-    "bitten tech course/Module 1 (Introduction)/7_ Intro to Ethical Hacking.md"
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/3_Skills of Ethical Hacker.md"
   ]
 }

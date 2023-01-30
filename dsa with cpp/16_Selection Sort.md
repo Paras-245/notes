@@ -23,4 +23,5 @@ void selectionSort(vector<int>& arr, int n)
 ```
 
 ## Complexity:
-Space Complexity : 
+Space Complexity : O(1)
+Time Complexity : 

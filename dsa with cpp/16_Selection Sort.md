@@ -26,4 +26,8 @@ void selectionSort(vector<int>& arr, int n)
 ### Space Complexity : 
 O(1)
 ### Time Complexity : 
-O(n^2)
+Worst Case: O(n^2)
+Best Case : O(n^2)
+
+## Use case :
+- when array size is small then we use selection sort.

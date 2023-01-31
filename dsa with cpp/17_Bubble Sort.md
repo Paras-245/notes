@@ -32,6 +32,6 @@ O(1)
 Worst Case: O(n^2)
 Best Case : generally we have complexity = O(n^2) but we can optimize the algo to make it O(1)
 ## Stability :
-
+- it is a stable algorithm
 ## Inplace Algorithm :
 An in-place algorithm is an algorithm that does not need an extra space and produces an output in the same memory that contains the data by transforming the input ‘in-place’. However, a small constant extra space used for variables is allowed.

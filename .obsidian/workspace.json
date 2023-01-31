@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/16_Selection Sort.md",
+                "file": "dsa with cpp/5_Operators _ For loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/16_Selection Sort.md",
+                "file": "dsa with cpp/5_Operators _ For loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/16_Selection Sort.md",
+                "file": "dsa with cpp/5_Operators _ For loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/16_Selection Sort.md"
+                "file": "dsa with cpp/5_Operators _ For loop.md"
               }
             }
           }
@@ -148,15 +148,15 @@
   },
   "active": "5da0083d3aa0cee8",
   "lastOpenFiles": [
-    "dsa with cpp/17_Bubble Sort.md",
     "dsa with cpp/16_Selection Sort.md",
+    "dsa with cpp/5_Operators _ For loop.md",
+    "dsa with cpp/10_Array Problems.md",
+    "dsa with cpp/17_Bubble Sort.md",
     "dsa with cpp/1_Intro To Programming and Flowcharts.md",
     "dsa with cpp/15_Binary Search Question Part-3.md",
     "dsa with cpp/14_Binary Search Questions Part-2.md",
     "dsa with cpp/13_Binary Search Questions Part-1.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/11_Phases of Ethical Hacking.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/10_Types of Hackers.md"
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/11_Phases of Ethical Hacking.md"
   ]
 }

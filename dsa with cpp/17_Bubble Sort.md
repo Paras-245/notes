@@ -17,7 +17,10 @@ void bubbleSort(vector<int>& arr, int n)
 				swapped = true;
 			}
 		}
-		if(swapped)
+		if(swapped==false)
+		{
+			break;
+		}
 	}
 }
 ```
@@ -27,6 +30,5 @@ void bubbleSort(vector<int>& arr, int n)
 O(1)
 ### Time Complexity : 
 Worst Case: O(n^2)
-Best Case : generally we have complexity = O(n^2) but we can optimize the algo to 
-
+Best Case : generally we have complexity = O(n^2) but we can optimize the algo to make it O(1)
 ## Use case :

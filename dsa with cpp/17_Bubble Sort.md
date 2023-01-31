@@ -24,6 +24,6 @@ void bubbleSort(vector<int>& arr, int n)
 O(1)
 ### Time Complexity : 
 Worst Case: O(n^2)
-Best Case : O(n^2)
+Best Case : generally we have complexity = O(n^2) but we can optimize the algo to 
 
 ## Use case :

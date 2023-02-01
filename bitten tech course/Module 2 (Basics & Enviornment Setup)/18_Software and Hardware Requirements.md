@@ -2,4 +2,6 @@
 2. ram
 3. gpu
 4. harddisk
-5. 
+
+and other resources
+

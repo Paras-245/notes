@@ -2,4 +2,5 @@
 - like if i give you cards one by one and you make them sorted
 ## What is Insertion Sort :
 - it will take some rounds
-- take first element at index 
+- take first element at index 0
+- then check the next element if the 

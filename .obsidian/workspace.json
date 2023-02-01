@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "7844efdec3ee787c",
+        "id": "e0decfab8c191e98",
         "type": "tabs",
         "children": [
           {
-            "id": "234bf0adfcad07e0",
+            "id": "efd196c179086bc9",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -138,7 +138,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "234bf0adfcad07e0",
+  "active": "efd196c179086bc9",
   "lastOpenFiles": [
     "dsa with cpp/18_Insertion Sort.md",
     "dsa with cpp/17_Bubble Sort.md",

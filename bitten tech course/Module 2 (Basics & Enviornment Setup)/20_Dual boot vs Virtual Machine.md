@@ -15,4 +15,8 @@
 ### Advantages :
 - easy to setup and switch and is safer(sanbox - virtual enviornment)
 - extra layer of security against malware
+- create snapshots and save the os conditon
+- portable
+### Disadvantages :
+- no dedicated resources
 - 

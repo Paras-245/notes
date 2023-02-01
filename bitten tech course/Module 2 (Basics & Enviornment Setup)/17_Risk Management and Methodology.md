@@ -4,3 +4,4 @@ when a EH find the bugs in system then his job ends and the company job starts
 - Identification,analysis,evaluation of cyber risks, by risk management
 - potential risks or events before they occur
 ## Methodology :
+1. Establish context : to check on current stances and plan to evaluate the risks

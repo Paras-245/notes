@@ -4,4 +4,5 @@
 - it will take some rounds
 - take first element at index 0
 - then check the next element 
-- if the no is smaller then small
+- if the no is smaller then no then check for previous element if exist
+- else put it to the next e

@@ -8,4 +8,5 @@ when a EH find the bugs in system then his job ends and the company job starts
 2. Risk identification: check how the risk can impact your company
 3. Risk analysis : check how it can damage our company , check how the specific risk can influence the objective of company
 4. Risk assessment and evaluation : chck acceptence and is company is willing to take action on that risk
-5. 
+5. Risk mitigation : rank the risks and develop the plan to control them
+6. Risk monitering : following up on risk and 

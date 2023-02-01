@@ -29,3 +29,8 @@ void insertionSort(int n, vector<int> &arr)
 	}
 }
 ```
+
+## Why Insertion Sort :
+- it is a adaptable 
+- it is stable
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md"
               }
             }
           }

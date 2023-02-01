@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1305b82c75617f19",
+        "id": "36501503511aa334",
         "type": "tabs",
         "children": [
           {
-            "id": "7580c59ad9ac79e2",
+            "id": "7c493dc9da82856c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/17_Risk Management and Methodology.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/18_Software and Hardware Requirements for a Hacking Lab.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/17_Risk Management and Methodology.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/18_Software and Hardware Requirements for a Hacking Lab.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/17_Risk Management and Methodology.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/18_Software and Hardware Requirements for a Hacking Lab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/17_Risk Management and Methodology.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/18_Software and Hardware Requirements for a Hacking Lab.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7580c59ad9ac79e2",
+  "active": "7c493dc9da82856c",
   "lastOpenFiles": [
-    "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/17_Risk Management and Methodology.md",
+    "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/16_IT Act 2000.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/15_Ethical Hacking Laws and Policies.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",

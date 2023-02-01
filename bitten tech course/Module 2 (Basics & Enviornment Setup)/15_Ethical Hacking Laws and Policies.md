@@ -4,4 +4,5 @@
 ## Why we need laws and policies?
 - sometimes hackers go to a unethical scope while job 
 ## Legal Laws must include:
-- 
+- company should tell how they will be treated if they give the bug from front and also tells its actions
+- scope should be given in agreement

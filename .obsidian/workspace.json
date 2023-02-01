@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a2ee48ada2de2926",
+        "id": "864e0a343e813847",
         "type": "tabs",
         "children": [
           {
-            "id": "032fd012c6cf3e6e",
+            "id": "4ac598bc680ed50e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/15_Ethical Hacking Laws and Policies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/15_Ethical Hacking Laws and Policies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/15_Ethical Hacking Laws and Policies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/15_Ethical Hacking Laws and Policies.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "032fd012c6cf3e6e",
+  "active": "4ac598bc680ed50e",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
     "dsa with cpp/19_STL Standard Template Library.md",
     "dsa with cpp/18_Insertion Sort.md",
     "dsa with cpp/17_Bubble Sort.md",
@@ -156,7 +157,6 @@
     "dsa with cpp/10_Array Problems.md",
     "dsa with cpp/1_Intro To Programming and Flowcharts.md",
     "dsa with cpp/15_Binary Search Question Part-3.md",
-    "dsa with cpp/14_Binary Search Questions Part-2.md",
-    "dsa with cpp/13_Binary Search Questions Part-1.md"
+    "dsa with cpp/14_Binary Search Questions Part-2.md"
   ]
 }

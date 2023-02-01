@@ -6,3 +6,4 @@
 ## Legal Laws must include:
 - company should tell how they will be treated if they give the bug from front and also tells its actions
 - scope should be given in agreement
+- should also tells compensations or punishments if he goes out of the scope

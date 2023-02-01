@@ -6,4 +6,8 @@
 - access fully dedicated resources at the spot
 - perfect for resource intensive tasks
 ### Disadvantages :
-- installation is complex and error can effect the whil
+- installation is complex and error can effect the whole system
+- to switch btween os you have to restart
+
+## Virtual Machine :
+

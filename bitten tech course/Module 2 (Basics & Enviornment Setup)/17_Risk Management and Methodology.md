@@ -7,4 +7,5 @@ when a EH find the bugs in system then his job ends and the company job starts
 1. Establish context : to check on current stances and plan to evaluate the risk and structure analysis should be defined
 2. Risk identification: check how the risk can impact your company
 3. Risk analysis : check how it can damage our company , check how the specific risk can influence the objective of company
-4. Risk assessment and evaluation : rank the damage of risk
+4. Risk assessment and evaluation : chck acceptence and is company is willing to take action on that risk
+5. 

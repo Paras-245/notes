@@ -8,35 +8,24 @@
 - else does not change the element
 - we will not swap in these but we will shift elements
 ```cpp
-void insertionSort(int n, vector<int> &arr){
-for(int i = 1;i<n;i++)
+void insertionSort(int n, vector<int> &arr)
 {
-int temp = arr[i];
-int j = i-1;
-for(;j >= 0;j--)
-{
-if(arr[j]> temp)
-{
-
-arr[j+1] = arr[j];
-
-}
-
-else
-
-{
-
-break;
-
-}
-
-  
-
-}
-
-arr[j+1] = temp;
-
-}
-
+	for(int i = 1;i<n;i++)
+	{
+		int temp = arr[i];
+		int j = i-1;
+		for(;j >= 0;j--)
+		{
+			if(arr[j]> temp)
+			{
+				arr[j+1] = arr[j];
+			}
+			else
+			{
+				break;
+			}
+		}
+		arr[j+1] = temp;
+	}
 }
 ```

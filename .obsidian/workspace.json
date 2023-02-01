@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c3b5e21b6a71cc9b",
+        "id": "bf94a8e5722ad40f",
         "type": "tabs",
         "children": [
           {
-            "id": "4df159abc0d19372",
+            "id": "6a2bc420150fbc7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4df159abc0d19372",
+  "active": "6a2bc420150fbc7f",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/19_Installing and Configuring VMWare WS.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/18_Software and Hardware Requirements.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/17_Risk Management and Methodology.md",
@@ -156,7 +157,6 @@
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/15_Ethical Hacking Laws and Policies.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
     "dsa with cpp/19_STL Standard Template Library.md",
-    "dsa with cpp/18_Insertion Sort.md",
-    "dsa with cpp/17_Bubble Sort.md"
+    "dsa with cpp/18_Insertion Sort.md"
   ]
 }

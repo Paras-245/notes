@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "36501503511aa334",
+        "id": "c3b5e21b6a71cc9b",
         "type": "tabs",
         "children": [
           {
-            "id": "a69cf57a82d790d9",
+            "id": "4df159abc0d19372",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/19_Installing and Configuring VMWare WS.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/19_Installing and Configuring VMWare WS.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/19_Installing and Configuring VMWare WS.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/19_Installing and Configuring VMWare WS.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a69cf57a82d790d9",
+  "active": "4df159abc0d19372",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/19_Installing and Configuring VMWare WS.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/18_Software and Hardware Requirements.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/17_Risk Management and Methodology.md",
     "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
@@ -156,7 +157,6 @@
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
     "dsa with cpp/19_STL Standard Template Library.md",
     "dsa with cpp/18_Insertion Sort.md",
-    "dsa with cpp/17_Bubble Sort.md",
-    "dsa with cpp/16_Selection Sort.md"
+    "dsa with cpp/17_Bubble Sort.md"
   ]
 }

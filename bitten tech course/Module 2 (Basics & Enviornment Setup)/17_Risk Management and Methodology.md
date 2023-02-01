@@ -10,4 +10,4 @@ when a EH find the bugs in system then his job ends and the company job starts
 4. Risk assessment and evaluation : chck acceptence and is company is willing to take action on that risk
 5. Risk mitigation : rank the risks and develop the plan to control them
 6. Risk monitering : following up on risk plan and moniter new and existing risk
-7. Communicate and consult : ag
+7. Communicate and consult : risk manaegment should be consulted with each appropriate step

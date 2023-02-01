@@ -10,4 +10,6 @@
 - to switch btween os you have to restart
 
 ## Virtual Machine :
+- dedicated virtual enviornment resides within our os and run simultaneously
+- we use application softwares
 

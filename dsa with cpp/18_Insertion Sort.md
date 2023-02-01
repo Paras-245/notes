@@ -33,4 +33,9 @@ void insertionSort(int n, vector<int> &arr)
 ## Why Insertion Sort :
 - it is a adaptable 
 - it is stable
-- 
+## Complexity:
+### Space Complexity : 
+O(1)
+### Time Complexity : 
+Worst Case: O(n^2)
+Best Case : generally we have complexity = O(n^2) but we can optimize the algo to make it O(N)

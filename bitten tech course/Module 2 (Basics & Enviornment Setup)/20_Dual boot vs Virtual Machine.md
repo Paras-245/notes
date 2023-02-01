@@ -19,4 +19,5 @@
 - portable
 ### Disadvantages :
 - no dedicated resources
-- 
+- inconvient for resource extensive tasks
+

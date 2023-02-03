@@ -87,7 +87,13 @@ int main()
     s.insert(5);
     s.insert(5);
     s.insert(5);
-    
+    s.insert(1);
+    s.insert(3);
+
+    for(int i:s)
+    {
+        cout << i << ' ';
+    }
 
 
 

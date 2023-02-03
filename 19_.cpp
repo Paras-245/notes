@@ -50,6 +50,10 @@ int main()
     cout << l.empty() << " ";
     */
     // Stack
+    stack<string> s;
+    s.push("Paras");
+    s.push("Chawla");
+    cout << ""
     
 
 

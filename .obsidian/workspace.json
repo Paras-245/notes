@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "689a2c3d42296293",
+        "id": "0746c15dea6ee519",
         "type": "tabs",
         "children": [
           {
-            "id": "c8850c838b2cab47",
+            "id": "5796c527924576c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cwa cpp/1_Intro to C++ & Installation.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cwa cpp/1_Intro to C++ & Installation.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cwa cpp/1_Intro to C++ & Installation.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cwa cpp/1_Intro to C++ & Installation.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c8850c838b2cab47",
+  "active": "5796c527924576c3",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled.md",
+    "bitten tech course/Module 1 (Introduction)/1_Intro To Information Security.md",
+    "cwa cpp/1_Intro to C++ & Installation.md",
     "dsa with cpp/19_STL Standard Template Library.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/24_Virtual Network Configurations Explained – NAT vs Bridged vs Host Only vs Internal.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/23_Installing Kali Linux 2019.4 on VMWare (New).md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/22_Configuring VM For Kali Linux.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/21_Choosing and Downloading Kali Distro.md",
-    "dsa with cpp/2_Write Our First Program in C++.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/19_Installing and Configuring VMWare WS.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/18_Software and Hardware Requirements.md"
+    "dsa with cpp/2_Write Our First Program in C++.md"
   ]
 }

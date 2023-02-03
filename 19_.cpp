@@ -49,14 +49,14 @@ int main()
     }
     cout << l.empty() << " ";
     */
-    // Stack
+    /*/ Stack
     stack<string> s;
     s.push("Paras");
     s.push("Chawla");
     cout << s.top() << endl;
     s.pop();
     cout << s.top() << endl;
-    
+
     
 
 

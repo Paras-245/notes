@@ -61,4 +61,12 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 ### Stack :
 - First Come Last serve
 - stack\<datatype\> name
+#### Methods : 
+- push()
+- pop()
+- top()
+- size()
+
+## Queue :
+- first in first out
 - 

@@ -50,7 +50,7 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 - implemented using doubly linked list
 - it does not has direct access  we have to traverse
 - list\<datatype\> var;
-#### Methods :
+##### Methods :
 1. push_back()
 2. push_front()
 3. erase()
@@ -58,29 +58,29 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 5. front()
 6. end()
 
-### Stack :
+#### Stack :
 - First Come Last serve
 - stack\<datatype\> name
-#### Methods : 
+##### Methods : 
 - push()
 - pop()
 - top()
 - size()
 
-## Queue :
+#### Queue :
 - first in first out
 - queue\<dataype\> name;
-#### Methods :
+##### Methods :
 1. push()
 2. front()
 3. pop()
 
-## Priority Queue :
+#### Priority Queue :
 - we can create two types - min heap or max heap
 - priority_queue\<datatype\> name;
 - priority_queue\<int,vector\<int\> ,greater\<int\> \> mini;
 - it will fetch the greatest or lowest element
-#### Methods :
+##### Methods :
 - top()
 - pop()
 

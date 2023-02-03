@@ -87,4 +87,7 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 
 #### Set :
 - it stores only unique elements
-- 
+- it is implemented as bst
+- elements will be outputed as sorted
+- but in unordered set elements come in random order
+

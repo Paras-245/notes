@@ -5,6 +5,7 @@
 #include<list>
 #include<stack>
 #include<queue>
+#include<set>
 
 
 using namespace std;
@@ -80,6 +81,12 @@ int main()
         maxi.pop();
     }
     */
+    // Set 
+    set<int> s;
+
+    s.insert(5);
+    s.insert(5);
+    s.insert(5);
     
 
 

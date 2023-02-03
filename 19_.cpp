@@ -73,7 +73,8 @@ int main()
     maxi.push(3);
     maxi.push(2);
     maxi.push(0);
-    for(int i = 0; i < maxi.size();i++)
+    int n =maxi.size();
+    for(int i = 0; i < n;i++)
     {
         cout << maxi.top() << " ";
         maxi.pop();

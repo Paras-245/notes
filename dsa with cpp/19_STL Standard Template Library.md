@@ -80,4 +80,6 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 - priority_queue\<datatype\> name;
 - priority_queue\<int,vector\<int\> ,greater\<int\> \> mini;
 - it will fetch the greatest or lowest element
-- 
+#### Methods :
+- top()
+- pop()

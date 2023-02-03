@@ -67,8 +67,10 @@ int main()
     cout << q.front() << endl;
     */
     // Priority queue
-    priority_queue<int> p;
-    
+    priority_queue<int> maxi;
+    priority_queue<int,vector<int> ,greater<int> > mini;
+
+
 
 
     

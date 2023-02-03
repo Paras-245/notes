@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "bf94a8e5722ad40f",
+        "id": "b8e11fdfb4d2729c",
         "type": "tabs",
         "children": [
           {
-            "id": "6a2bc420150fbc7f",
+            "id": "8cb5b5df3b6b801c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/21_Choosing and Downloading Kali Distro.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/21_Choosing and Downloading Kali Distro.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/21_Choosing and Downloading Kali Distro.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/21_Choosing and Downloading Kali Distro.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6a2bc420150fbc7f",
+  "active": "8cb5b5df3b6b801c",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/24_Virtual Network Configurations Explained – NAT vs Bridged vs Host Only vs Internal.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/23_Installing Kali Linux 2019.4 on VMWare (New).md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/22_Configuring VM For Kali Linux.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/21_Choosing and Downloading Kali Distro.md",
+    "dsa with cpp/19_STL Standard Template Library.md",
+    "dsa with cpp/2_Write Our First Program in C++.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/20_Dual boot vs Virtual Machine.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/19_Installing and Configuring VMWare WS.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/18_Software and Hardware Requirements.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/17_Risk Management and Methodology.md",
-    "bitten tech course/Module 1 (Introduction)/12_General Terminologies.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/16_IT Act 2000.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/15_Ethical Hacking Laws and Policies.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/14_Cyber Security vs Ethical Hacking.md",
-    "dsa with cpp/19_STL Standard Template Library.md",
-    "dsa with cpp/18_Insertion Sort.md"
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/17_Risk Management and Methodology.md"
   ]
 }

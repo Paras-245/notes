@@ -3,7 +3,9 @@
 #include<vector>
 #include<deque>
 #include<list>
-# include <stack>
+#include<stack>
+#include<queue>
+
 
 using namespace std;
 int main()
@@ -56,7 +58,9 @@ int main()
     cout << s.top() << endl;
     s.pop();
     cout << s.top() << endl;
-
+    */
+    // Queue
+    queue<string> 
     
 
 

@@ -98,6 +98,8 @@ int main()
     */
     // map
     map<int,string> m;
+    m[1] = "paras";
+    m[2] = "Chawla";
     
 
 

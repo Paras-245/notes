@@ -92,5 +92,7 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 - but in unordered set elements come in random order
 ##### Methods :
 - count()
-- 
+- erase()
+- insert()
+
 

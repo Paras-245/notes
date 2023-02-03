@@ -66,6 +66,8 @@ int main()
 
     cout << q.front() << endl;
     */
+    // Priority queue
+    priority_queue<int> p;
     
 
 

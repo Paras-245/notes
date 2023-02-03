@@ -59,12 +59,14 @@ int main()
     s.pop();
     cout << s.top() << endl;
     */
-    // Queue
+    /*// Queue
     queue<string> q;
     q.push("Paras");
     q.push("Chawla");
 
     cout << q.front() << endl;
+    */
+    
 
 
     

@@ -75,4 +75,6 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 2. front()
 3. pop()
 
-## Priority Queue
+## Priority Queue :
+- we can create two types - min heap or max heap
+- 

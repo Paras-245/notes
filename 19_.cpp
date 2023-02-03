@@ -6,6 +6,7 @@
 #include<stack>
 #include<queue>
 #include<set>
+#include<map>
 
 
 using namespace std;
@@ -81,7 +82,7 @@ int main()
         maxi.pop();
     }
     */
-    // Set 
+    /*// Set 
     set<int> s;
 
     s.insert(5);
@@ -94,7 +95,10 @@ int main()
     {
         cout << i << ' ';
     }
-
+    */
+    // map
+    map<int,string> m;
+    
 
 
     

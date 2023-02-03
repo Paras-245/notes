@@ -64,7 +64,7 @@ int main()
     q.push("Paras");
     q.push("Chawla");
 
-    cout << 
+    cout << q.front() << endl;
 
 
     

@@ -69,4 +69,7 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 
 ## Queue :
 - first in first out
-- 
+- queue\<dataype\> name;
+#### Methods :
+1. push()
+2. front()

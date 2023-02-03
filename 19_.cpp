@@ -44,8 +44,9 @@ int main()
     l.push_front(2);
     for(int i:l)
     {
-        
+        cout << i <<' ';
     }
+    
 
 
 

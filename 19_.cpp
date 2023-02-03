@@ -53,7 +53,10 @@ int main()
     stack<string> s;
     s.push("Paras");
     s.push("Chawla");
-    cout << ""
+    cout << s.top() << endl;
+    s.pop();
+    cout << s.top() << endl;
+    
     
 
 

@@ -53,4 +53,8 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 #### Methods :
 1. push_back()
 2. push_front()
-
+3. erase()
+4. size()
+5. front()
+6. end()
+7. 

@@ -46,7 +46,7 @@ int main()
     {
         cout << i <<' ';
     }
-    
+    cout << 
 
 
 

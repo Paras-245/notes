@@ -60,7 +60,13 @@ int main()
     cout << s.top() << endl;
     */
     // Queue
-    queue<string> 
+    queue<string> q;
+    q.push("Paras");
+    q.push("Chawla");
+
+    cout << 
+
+
     
 
 

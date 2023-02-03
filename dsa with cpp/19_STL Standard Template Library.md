@@ -59,4 +59,5 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 6. end()
 
 ### Stack :
+- First Come Last serve
 - 

@@ -73,3 +73,6 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 #### Methods :
 1. push()
 2. front()
+3. pop()
+
+## 

@@ -7,6 +7,7 @@
 #include<queue>
 #include<set>
 #include<map>
+#include<algorithm>
 
 
 using namespace std;
@@ -96,11 +97,11 @@ int main()
         cout << i << ' ';
     }
     */
-    // map
+    /*// map
     map<int,string> m;
     m[1] = "paras";
     m[2] = "Chawla";
-    
+    */
 
 
     

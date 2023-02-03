@@ -38,7 +38,7 @@ int main()
     // d.pop_back()
     cout << "print first index element :" << d.at(0) << endl;
     */
-    // list
+    /*// list
     list<int> l;
     l.push_back(1);
     l.push_front(2);
@@ -46,7 +46,9 @@ int main()
     {
         cout << i <<' ';
     }
-    cout << 
+    cout << l.empty() << " ";
+    */
+   
 
 
 

@@ -32,12 +32,12 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 6. v.clear() : it will empty the vector,it will make the size of vector 0 but not the capacity
 7. v.begin() : it wil give your iterator
 
-### Deque (Doubly Ended Queue) :
+#### Deque (Doubly Ended Queue) :
 - we can perform deletion and insertion from end as well as start
 - it does not have contigous memory allocation
 - it is dynamic & also have random access
 - deque\<int\> d;
-#### Methods :
+##### Methods :
 1. push_back()
 2. push_front()
 3. at()
@@ -46,7 +46,7 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 6. empty()
 7. erase(start,end)
 
-### List :
+#### List :
 - implemented using doubly linked list
 - it does not has direct access  we have to traverse
 - list\<datatype\> var;
@@ -83,3 +83,4 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 #### Methods :
 - top()
 - pop()
+

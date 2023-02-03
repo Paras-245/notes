@@ -100,3 +100,6 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 
 
 #### Map :
+- it will have data is key value pairs
+- all keys are unique and one key points to 1 value
+- 

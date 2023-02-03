@@ -77,4 +77,5 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 
 ## Priority Queue :
 - we can create two types - min heap or max heap
-- 
+- priority_queue\<datatype\> name;
+- priority_queue\<int,vector\<int\> ,greater\<int\> \> 

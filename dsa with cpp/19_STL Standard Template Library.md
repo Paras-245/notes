@@ -84,3 +84,7 @@ bcs it has some datatypes like vectors sets or another built in functions which 
 - top()
 - pop()
 
+
+#### Set :
+- it stores only unique elements
+- 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled 1.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/27_Installing Metasploitable on VM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled 1.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/27_Installing Metasploitable on VM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled 1.md",
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/27_Installing Metasploitable on VM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/Untitled 1.md"
+                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/27_Installing Metasploitable on VM.md"
               }
             }
           }
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "77dbb240bbb2c532",
+  "active": "62f6a2d2404b2a14",
   "lastOpenFiles": [
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/26_Installating and Configuring bWAPP.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",

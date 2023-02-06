@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "6fc571536d81cd9e",
+        "id": "d0062477d0f45556",
         "type": "tabs",
         "children": [
           {
-            "id": "77dbb240bbb2c532",
+            "id": "3a6753fb1bff9f0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/27_Installing Metasploitable on VM.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]

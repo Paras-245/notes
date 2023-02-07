@@ -37,8 +37,9 @@ void print(int arr[],int n)
 {
     for(int i = 0;i < n;i++)
     {
-        cout<< 
+        cout<< arr[i]<<' ';
     }
+    cout << endl;
 }
 int main()
 {
@@ -46,7 +47,7 @@ int main()
     int arr2[3] = {2,4,6};
     int arr3[8]= {0};
 
-    merge(arr1,a5,arr2,3,arr3);
+    merge(arr1,5,arr2,3,arr3);
     print(arr3,8);
 
     return 0;

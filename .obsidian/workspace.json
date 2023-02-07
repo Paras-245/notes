@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d0062477d0f45556",
+        "id": "0a2580e9ff345d1a",
         "type": "tabs",
         "children": [
           {
-            "id": "3a6753fb1bff9f0b",
+            "id": "e33f522fb51384a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md",
+                "file": "dsa with cpp/10_Array Problems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md",
+                "file": "dsa with cpp/10_Array Problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md",
+                "file": "dsa with cpp/10_Array Problems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md"
+                "file": "dsa with cpp/10_Array Problems.md"
               }
             }
           }
@@ -146,10 +146,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a6753fb1bff9f0b",
+  "active": "e33f522fb51384a2",
   "lastOpenFiles": [
-    "dsa with cpp/10_Array Problems.md",
     "dsa with cpp/20_Solving questions of leetcode on arrays.md",
+    "dsa with cpp/10_Array Problems.md",
     "dsa with cpp/9_Intro to Array.md",
     "dsa with cpp/11_Time & Space Complexity.md",
     "dsa with cpp/12_Binary Search.md",

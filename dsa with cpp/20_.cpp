@@ -22,6 +22,12 @@ void merge(int arr1[],int n, int arr2[],int m, int arr3[])
         while(i<n)
         {
             arr3[k] = arr1[i];
+            k++;
+            i++;
+        }
+        while(j<m)
+        {
+            arr3[k] = arr2[j];
             
         }
     }

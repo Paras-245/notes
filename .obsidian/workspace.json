@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5a76ca54c853f565",
+        "id": "b9f058ce404f58d7",
         "type": "tabs",
         "children": [
           {
-            "id": "7dd97aaff75c6584",
+            "id": "43725bfc039cfe16",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/5_Operators _ For loop.md",
+                "file": "dsa with cpp/21_More Questions on Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/5_Operators _ For loop.md",
+                "file": "dsa with cpp/21_More Questions on Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/5_Operators _ For loop.md",
+                "file": "dsa with cpp/21_More Questions on Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/5_Operators _ For loop.md"
+                "file": "dsa with cpp/21_More Questions on Arrays.md"
               }
             }
           }
@@ -146,8 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7dd97aaff75c6584",
+  "active": "43725bfc039cfe16",
   "lastOpenFiles": [
+    "dsa with cpp/5_Operators _ For loop.md",
     "dsa with cpp/4_Solving_Patterns.md",
     "dsa with cpp/3_If-Else,While loop _ Patterns.md",
     "dsa with cpp/21_More Questions on Arrays.md",
@@ -156,7 +157,6 @@
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/24_Virtual Network Configurations Explained – NAT vs Bridged vs Host Only vs Internal.md",
     "dsa with cpp/10_Array Problems.md",
-    "dsa with cpp/9_Intro to Array.md",
-    "dsa with cpp/11_Time & Space Complexity.md"
+    "dsa with cpp/9_Intro to Array.md"
   ]
 }

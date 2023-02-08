@@ -7,8 +7,9 @@ Homework: [1207. Unique Number of Occurrences](https://leetcode.com/problems/un
 vecto[[11_Time & Space Complexity]]r is dynamic array
 - we first take xor of elements and then take xor with (1 to  n -1) then only duplicate will be left
 Homework : 442.Find al duplicates in an array
-4. [Array Intersection](https://www.codingninjas.com/codestudio/problem-details/duplicate-in-array_893397)
-5. [Pair sum](https://www.codingninjas.com/codestudio/problems/pair-sum_697295)
+4. [Array Intersection](https://www.codingninjas.com/codestudio/problems/intersection-of-2-arrays_1082149?leftPanelTab=0)
+5. 
+6. [Pair sum](https://www.codingninjas.com/codestudio/problems/pair-sum_697295)
 take loop from starting of array and start another loop from i+1.
 and sort with sort(func)
 Homework : [3Sum](https://www.codingninjas.com/codestudio/problems/triplets-with-given-sum_893028)

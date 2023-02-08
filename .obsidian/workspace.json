@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/26_Installating and Configuring bWAPP.md",
+                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/26_Installating and Configuring bWAPP.md",
+                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/26_Installating and Configuring bWAPP.md",
+                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 2 (Basics & Enviornment Setup)/26_Installating and Configuring bWAPP.md"
+                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "e33f522fb51384a2",
   "lastOpenFiles": [
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/26_Installating and Configuring bWAPP.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/25_Installating and Configuring DVWA.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/24_Virtual Network Configurations Explained – NAT vs Bridged vs Host Only vs Internal.md",
     "dsa with cpp/10_Array Problems.md",
@@ -156,7 +157,6 @@
     "dsa with cpp/11_Time & Space Complexity.md",
     "dsa with cpp/12_Binary Search.md",
     "dsa with cpp/13_Binary Search Questions Part-1.md",
-    "dsa with cpp/14_Binary Search Questions Part-2.md",
-    "dsa with cpp/15_Binary Search Question Part-3.md"
+    "dsa with cpp/14_Binary Search Questions Part-2.md"
   ]
 }

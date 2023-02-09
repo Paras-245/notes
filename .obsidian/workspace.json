@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b9f058ce404f58d7",
+        "id": "7ea7c61fedbecbae",
         "type": "tabs",
         "children": [
           {
-            "id": "43725bfc039cfe16",
+            "id": "dc3c71f8bfd19422",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa with cpp/21_More Questions on Arrays.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/21_More Questions on Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/21_More Questions on Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dsa with cpp/21_More Questions on Arrays.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "43725bfc039cfe16",
+  "active": "dc3c71f8bfd19422",
   "lastOpenFiles": [
+    "dsa with cpp/21_More Questions on Arrays.md",
     "dsa with cpp/14_Binary Search Questions Part-2.md",
     "dsa with cpp/13_Binary Search Questions Part-1.md",
     "dsa with cpp/12_Binary Search.md",
@@ -156,7 +149,6 @@
     "dsa with cpp/9_Intro to Array.md",
     "dsa with cpp/8_Switch Statement & Functions.md",
     "dsa with cpp/7_Leetcode Problems.md",
-    "dsa with cpp/21_More Questions on Arrays.md",
     "dsa with cpp/5_Operators _ For loop.md"
   ]
 }

@@ -7,4 +7,4 @@ cin >> name;
 cout << name;
 
 ## Note :
-cin wil stop execution 
+cin wil stop execution when it gets space , tab or \\n

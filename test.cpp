@@ -9,6 +9,9 @@ int main()
         cout << "Error occured!" << endl;
     }
     cout << a << endl;
+    int b;
+    cin >> b;
+    cout << b << endl;
     return 0;
 
 }

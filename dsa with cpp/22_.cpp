@@ -16,6 +16,12 @@ int main()
     // cout <<name;
     
     // length of string
+    cout << getLength(name);
 
+    
+
+    
+    
+    
     return 0;
 }

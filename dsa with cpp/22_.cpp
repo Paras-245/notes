@@ -28,7 +28,10 @@ int main()
     int n = getLength(name);
 
     // Reverse of string
-    cout << reverse(name,n);
+    reverse(name,n);
+    cout << name;
+
+    
 
 
 

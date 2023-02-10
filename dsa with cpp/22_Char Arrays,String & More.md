@@ -10,3 +10,4 @@ cin wil stop execution when it gets space , tab or \\n
 
 
 
+

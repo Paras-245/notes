@@ -12,7 +12,11 @@ int getLength(char name[])
 void reverse(char name[],int n)
 {
     int s = 0;
-    int e = 
+    int e = n-1;
+    while(s<e)
+    {
+        swap(name[s++],name[e--]);
+    }
 }
 int main()
 {
@@ -24,6 +28,7 @@ int main()
     cout << getLength(name);
 
     // Reverse of string
+    cout << reverse(name,getLength(name));
 
 
 

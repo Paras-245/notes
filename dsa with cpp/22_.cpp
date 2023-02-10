@@ -43,11 +43,11 @@ int main()
     int n = getLength(name);
 
     // Reverse of string
-    reverse(name,n);
-    cout << name;
+    // reverse(name,n);
+    // cout << name;
 
     // check if palindrome
-    cout << checkPalindrome
+    cout << checkPalindrome(name,n);
 
 
 

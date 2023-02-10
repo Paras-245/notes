@@ -10,6 +10,7 @@ int main()
     }
     cout << a << endl;
     int b;
+    cin.clear()
     cin >> b;
     cout << b << endl;
     return 0;

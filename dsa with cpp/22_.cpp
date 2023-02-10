@@ -31,7 +31,9 @@ int main()
     reverse(name,n);
     cout << name;
 
-    
+    // 
+
+
 
 
 

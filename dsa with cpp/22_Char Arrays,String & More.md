@@ -5,3 +5,6 @@
 cin >> name;
 ### Output :
 cout << name;
+
+## Note :
+cin wil stop execution 

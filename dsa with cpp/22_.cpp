@@ -2,7 +2,12 @@
 using namespace std;
 int getLength(char name[])
 {
-    for(int i = 0;)
+    int count= 0;
+    for(int i = 0; name[i] != '\0';i++)
+    {
+        count++;
+    }
+    return count;
 }
 int main()
 {

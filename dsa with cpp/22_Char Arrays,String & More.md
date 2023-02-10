@@ -5,6 +5,8 @@
 cin >> name;
 ### Output :
 cout << name;
-
-## Note :
+### Note :
 cin wil stop execution when it gets space , tab or \\n
+
+
+

@@ -133,7 +133,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e13987182159366",
+  "active": "a12666fa7be04bfa",
   "lastOpenFiles": [
+    "dsa with cpp/8_Switch Statement & Functions.md",
+    "dsa with cpp/22_Char Arrays,String & More.md",
     "dsa with cpp/18_Insertion Sort.md",
     "dsa with cpp/17_Bubble Sort.md",
     "dsa with cpp/16_Selection Sort.md",
-    "dsa with cpp/22_Char Arrays,String & More.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/28_Owasp.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/27_Installing Metasploitable on VM.md",
     "dsa with cpp/21_More Questions on Arrays.md",
     "dsa with cpp/14_Binary Search Questions Part-2.md",
-    "dsa with cpp/13_Binary Search Questions Part-1.md",
-    "dsa with cpp/12_Binary Search.md"
+    "dsa with cpp/13_Binary Search Questions Part-1.md"
   ]
 }

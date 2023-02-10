@@ -18,6 +18,15 @@ void reverse(char name[],int n)
         swap(name[s++],name[e--]);
     }
 }
+bool checkPalindrome(char a[],int n)
+{
+    int s = 0;
+    int e = n-1;
+    while(s<=e)
+    {
+        if(a[s])
+    }
+}
 int main()
 {
     char name[20];
@@ -32,7 +41,7 @@ int main()
     cout << name;
 
     // check if palindrome
-    
+
 
 
 

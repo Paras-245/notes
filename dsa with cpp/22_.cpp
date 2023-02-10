@@ -24,8 +24,14 @@ bool checkPalindrome(char a[],int n)
     int e = n-1;
     while(s<=e)
     {
-        if(a[s])
+        if(a[s++]!=a[e--])
+        {
+            return false;
+        }
     }
+
+    return true;
+
 }
 int main()
 {
@@ -41,6 +47,7 @@ int main()
     cout << name;
 
     // check if palindrome
+    cout << checkPalindrome
 
 
 

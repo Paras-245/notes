@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/16_Selection Sort.md",
+                "file": "dsa with cpp/18_Insertion Sort.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/16_Selection Sort.md",
+                "file": "dsa with cpp/18_Insertion Sort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/16_Selection Sort.md",
+                "file": "dsa with cpp/18_Insertion Sort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/16_Selection Sort.md"
+                "file": "dsa with cpp/18_Insertion Sort.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "a12666fa7be04bfa",
   "lastOpenFiles": [
+    "dsa with cpp/17_Bubble Sort.md",
+    "dsa with cpp/16_Selection Sort.md",
     "dsa with cpp/22_Char Arrays,String & More.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/28_Owasp.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/27_Installing Metasploitable on VM.md",
@@ -155,8 +157,6 @@
     "dsa with cpp/14_Binary Search Questions Part-2.md",
     "dsa with cpp/13_Binary Search Questions Part-1.md",
     "dsa with cpp/12_Binary Search.md",
-    "dsa with cpp/11_Time & Space Complexity.md",
-    "dsa with cpp/10_Array Problems.md",
-    "dsa with cpp/9_Intro to Array.md"
+    "dsa with cpp/11_Time & Space Complexity.md"
   ]
 }

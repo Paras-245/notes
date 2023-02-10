@@ -1,3 +1,4 @@
 ## Strings :
-it is 1-Dimensional arrays
-
+- it is 1-Dimensional arrays
+- these are terminated by a \\0  character which  indicates
+- 

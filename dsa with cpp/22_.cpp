@@ -9,6 +9,11 @@ int getLength(char name[])
     }
     return count;
 }
+void reverse(char name[],int n)
+{
+    int s = 0;
+    int e = 
+}
 int main()
 {
     char name[20];
@@ -20,7 +25,7 @@ int main()
 
     // Reverse of string
 
-    
+
 
     
     

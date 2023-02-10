@@ -6,7 +6,7 @@ int main()
     cin >> a;
     if(cin.fail())
     {
-        cout << "Error occured"
+        cout << "Error occured!" << endl;
     }
     cout << a << endl;
     return 0;

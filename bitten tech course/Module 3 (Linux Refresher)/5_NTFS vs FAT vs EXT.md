@@ -2,4 +2,7 @@
 - increases the number of bits used to address clusters or blocks and reduces the size of each cluster
 - support larger disks (up to 2 tb) and better storage efficiency 4GB file size
 ## NTFS (New Technology File System):
-- windows ope
+- windows operating ststem uses for storing and retrieving files
+- linux have a free and open source driver 
+- mac os have read only support
+- 

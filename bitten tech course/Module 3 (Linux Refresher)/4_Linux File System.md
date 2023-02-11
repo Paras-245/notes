@@ -13,4 +13,7 @@
 4. /etc : contains the local configurations files for the host of the computer
 5. /home : storage for user files ,each user has a subdirectory in /home
 6. /lib : contains shared library files that are required for softwares inn bin
-7. /media : 
+7. /media : place to mount external removable media devices
+8. /mnt : temporary mount point for regular file systems
+9. /root : it is home directory for the root user
+10. 

@@ -11,4 +11,3 @@
 - file contents , filenames and symbolic link targets all encrypted
 - supports journeling
 - we can access ntfs from ext4
-- 

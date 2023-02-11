@@ -62,16 +62,9 @@ int main()
     // cout << checkPalindrome(name,n);
     // cout << toLowerCase('A') << endl;
 
-    const char * s = "Hello my name is paras";
-    // s[1] = 'j';
-    cout << s;
-
     // reverse the words in string
-
-
-
-
-
+    const char * s = "Hello my name is paras";
     
+
     return 0;
 }

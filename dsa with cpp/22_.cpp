@@ -47,12 +47,12 @@ bool checkPalindrome(char a[],int n)
 }
 int main()
 {
-    char name[20];
-    cin >> name;
+    // char name[20];
+    // cin >> name;
     // cout <<name;
     
     // length of string
-    int n = getLength(name);
+    // int n = getLength(name);
 
     // Reverse of string
     // reverse(name,n);
@@ -62,10 +62,12 @@ int main()
     // cout << checkPalindrome(name,n);
     // cout << toLowerCase('A') << endl;
 
-    string s;
+    string s = "Hello my name is paras";
+    s[1] = s;
+    cout << s;
 
     // reverse the words in string
-    
+
 
 
 

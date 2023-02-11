@@ -16,4 +16,5 @@
 7. /media : place to mount external removable media devices
 8. /mnt : temporary mount point for regular file systems
 9. /root : it is home directory for the root user
-10. 
+10. /tmp : used by the operating system and many programs to store temporary files
+11. /usr : shareable , read 

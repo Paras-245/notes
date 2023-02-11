@@ -12,7 +12,7 @@ cin wil stop execution when it gets space , tab or \\n
 ## Questions:
 1. reverse the string
 2. find length of string
-3. check if the string is palindrome
+3. [check if the string is palindrome]()
 4. 
 
 

@@ -61,7 +61,7 @@ int main()
     // check if palindrome
     // cout << checkPalindrome(name,n);
     cout << toLowerCase('A') << endl;
-    toL
+    co
 
 
 

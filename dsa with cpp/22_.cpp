@@ -21,10 +21,10 @@ int getLength(char name[])
     }
     return count;
 }
-void reverse(char name[],int n)
+void reverse(char name[],int s,int e)
 {
-    int s = 0;
-    int e = n-1;
+    // int s = 0;
+    // int e = n-1;
     while(s<e)
     {
         swap(name[s++],name[e--]);
@@ -53,8 +53,8 @@ void reverseWord(string str)
     {
         if(str[i] == ' ')
         {
-            e = i;
-            
+            e = i - 1 ;
+
         }
     }
 }

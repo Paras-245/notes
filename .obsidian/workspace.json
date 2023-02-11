@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5275b314428eeef4",
+        "id": "0e08b3be931d3697",
         "type": "tabs",
         "children": [
           {
-            "id": "a12666fa7be04bfa",
+            "id": "4bffa006c25d0a76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "dsa with cpp/22_Char Arrays,String & More.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/22_Char Arrays,String & More.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/22_Char Arrays,String & More.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "dsa with cpp/22_Char Arrays,String & More.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,17 +138,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a12666fa7be04bfa",
+  "active": "4bffa006c25d0a76",
   "lastOpenFiles": [
-    "dsa with cpp/8_Switch Statement & Functions.md",
+    "bitten tech course/Module 3/2_Windows command line.md",
+    "bitten tech course/Module 3/1_Introduction to Command Line.md",
     "dsa with cpp/22_Char Arrays,String & More.md",
+    "dsa with cpp/8_Switch Statement & Functions.md",
     "dsa with cpp/18_Insertion Sort.md",
     "dsa with cpp/17_Bubble Sort.md",
     "dsa with cpp/16_Selection Sort.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/28_Owasp.md",
     "bitten tech course/Module 2 (Basics & Enviornment Setup)/27_Installing Metasploitable on VM.md",
-    "dsa with cpp/21_More Questions on Arrays.md",
-    "dsa with cpp/14_Binary Search Questions Part-2.md",
-    "dsa with cpp/13_Binary Search Questions Part-1.md"
+    "dsa with cpp/21_More Questions on Arrays.md"
   ]
 }

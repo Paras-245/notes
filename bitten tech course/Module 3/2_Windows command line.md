@@ -1,0 +1,5 @@
+- it has two command shells - command shell and Powershell
+- it is called Windows Command Processor but referred with diff names
+- Dos is not a command line but it used to emulate that enviornment
+- Powershell is more powerfull and have more capabilities than cmd and its commands are called **cmdlets**
+- you can run cmd command on poweshell but cant run cmdlets on cmd

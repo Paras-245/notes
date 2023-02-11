@@ -54,7 +54,8 @@ void reverseWord(string str)
         if(str[i] == ' ')
         {
             e = i - 1 ;
-
+            reverse(str,s,e);
+            s = i + 1;
         }
     }
 }

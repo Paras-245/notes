@@ -6,7 +6,7 @@ char toLowerCase(char ch)
     {
         return ch;
     }
-    else
+    else 
     {
         char temp = ch - 'A' + 'a';
         return temp;

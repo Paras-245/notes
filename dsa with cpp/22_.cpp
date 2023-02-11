@@ -1,5 +1,9 @@
 #include<iostream>
 using namespace std;
+char toLowerCase(char ch)
+{
+    if(ch >='a' && ch<=)
+}
 int getLength(char name[])
 {
     int count= 0;

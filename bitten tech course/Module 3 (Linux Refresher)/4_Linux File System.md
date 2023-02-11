@@ -1,1 +1,2 @@
+- file system is set of rules used to decide how the data is stored and fetched in device,like harddrive or else
 - 

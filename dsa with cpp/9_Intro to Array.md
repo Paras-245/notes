@@ -13,8 +13,6 @@ int array[10000] = {0}; it wil give al elements zero but not in other number cas
 ## printing arrays :
 we print arrays using loops
 
-
-
 ## Max and min element :
 shown in program
 ## Scope of arrayin function:

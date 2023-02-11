@@ -7,4 +7,7 @@
 - mac os have read only support
 - 16 Tb max size and 4kb cluster size
 ## Ext4 (Extended File System 4):
-- 
+- support encryption
+- file contents , filenames and symbolic link targets all encrypted
+- supports journeling
+- we can access 

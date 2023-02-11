@@ -49,7 +49,7 @@ void reverseWord(string str)
 {
     int s = 0;
     int e = 0;
-    for(int i = 0; i < str.length();i++)
+    for(int i = 0; i < str.length() -1 ;i++)
     {
         if(str[i] == ' ')
         {
@@ -77,7 +77,7 @@ int main()
     // cout << toLowerCase('A') << endl;
 
     // reverse the words in string
-    string s = "Hello my name is paras";
+    char s = "Hello my name is paras";
     reverseWord(s);
     cout << s<< endl;
     

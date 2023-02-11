@@ -10,4 +10,6 @@
 1. /bin : it contains binary files and executable files from linux and contains definations of all commands
 2. /boot : contains static bootloader and kernal executable and configuration files required to boot a linux computer
 3. /dev : linux treat each hardware as a file,so it coutains device files for every hardware devices attached to system
-4. /etc : contains the local configurations
+4. /etc : contains the local configurations files for the host of the computer
+5. /home : storage for user files ,each user has a subdirectory in /home
+6. 

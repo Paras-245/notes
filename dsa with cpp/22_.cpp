@@ -50,7 +50,7 @@ void reverseWord(char str[])
     int s = 0;
     int e = 0;
     int n = getLength(str);
-    for(int i = 0; i < str -1 ;i++)
+    for(int i = 0; i < n - 1  ;i++)
     {
         if(str[i] == ' ')
         {
@@ -59,6 +59,7 @@ void reverseWord(char str[])
             s = i + 1;
         }
     }
+    reverse()
 }
 int main()
 {

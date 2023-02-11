@@ -5,4 +5,4 @@
 ## / (Root filesystem):
 - top level directory
 - contains all files required to boot and and run the linux
-- include all the required executables and libraries required to boot the 
+- include all the required executables and libraries required to boot the remaining filesystem

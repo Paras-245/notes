@@ -15,6 +15,7 @@ cin wil stop execution when it gets space , tab or \\n
 3. [check if the string is palindrome](https://www.codingninjas.com/codestudio/problem-details/check-if-the-string-is-a-palindrome_1062633)
 
 ## String in cpp :
+length() : to find length of string
 
 
 

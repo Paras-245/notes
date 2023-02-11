@@ -12,4 +12,5 @@
 3. /dev : linux treat each hardware as a file,so it coutains device files for every hardware devices attached to system
 4. /etc : contains the local configurations files for the host of the computer
 5. /home : storage for user files ,each user has a subdirectory in /home
-6. 
+6. /lib : contains shared library files that are required for softwares inn bin
+7. /media : 

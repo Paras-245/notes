@@ -45,7 +45,14 @@ bool checkPalindrome(char a[],int n)
     return true;
 
 }
-reverseWord
+void reverseWord(string text)
+{
+    int 
+    for(int i = 0; i < s.length();i++)
+    {
+
+    }
+}
 int main()
 {
     // char name[20];

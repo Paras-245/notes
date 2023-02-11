@@ -60,7 +60,7 @@ int main()
 
     // check if palindrome
     // cout << checkPalindrome(name,n);
-    cout 
+    cout << toLowerCase('A') << endl;
 
 
 

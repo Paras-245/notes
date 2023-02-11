@@ -34,7 +34,7 @@ bool checkPalindrome(char a[],int n)
 {
     int s = 0;
     int e = n-1;
-    while(toLowerCase(s)<=toe)
+    while(toLowerCase(s)<=toLowerCase(e))
     {
         if(a[s++]!=a[e--])
         {

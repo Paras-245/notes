@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md",
+                "file": "dsa with cpp/19_STL Standard Template Library.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md",
+                "file": "dsa with cpp/19_STL Standard Template Library.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md",
+                "file": "dsa with cpp/19_STL Standard Template Library.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/20_Solving questions of leetcode on arrays.md"
+                "file": "dsa with cpp/19_STL Standard Template Library.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "3e11fbd3d84d7b8a",
   "lastOpenFiles": [
+    "dsa with cpp/20_Solving questions of leetcode on arrays.md",
     "dsa with cpp/21_More Questions on Arrays.md",
     "dsa with cpp/22_Char Arrays,String & More.md",
-    "dsa with cpp/20_Solving questions of leetcode on arrays.md",
     "dsa with cpp/19_STL Standard Template Library.md",
     "dsa with cpp/17_Bubble Sort.md",
     "dsa with cpp/16_Selection Sort.md",

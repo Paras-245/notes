@@ -5,4 +5,6 @@
 - windows operating ststem uses for storing and retrieving files
 - linux have a free and open source driver 
 - mac os have read only support
+- 16 Tb max size and 4kb cluster size
+## Ext4 (Extended File System 4):
 - 

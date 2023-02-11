@@ -7,4 +7,6 @@
 - contains all files required to boot and and run the linux
 - include all the required executables and libraries required to boot the remaining filesystem
 ## Other directories:
-1. /bin : it contains binary files and executable files from linux and contains definations 
+1. /bin : it contains binary files and executable files from linux and contains definations of all commands
+2. /boot : contains static bootloader and kernal executable and configuration files required to boot a linux computer
+3. /dev : 

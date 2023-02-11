@@ -45,12 +45,17 @@ bool checkPalindrome(char a[],int n)
     return true;
 
 }
-void reverseWord(string text)
+void reverseWord(string str)
 {
-    int 
-    for(int i = 0; i < s.length();i++)
+    int s = 0;
+    int e = 0;
+    for(int i = 0; i < str.length();i++)
     {
-
+        if(str[i] == ' ')
+        {
+            e = i;
+            
+        }
     }
 }
 int main()

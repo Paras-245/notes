@@ -63,7 +63,8 @@ int main()
     // cout << toLowerCase('A') << endl;
 
     // reverse the words in string
-    const char * s = "Hello my name is paras";
+    string s = "Hello my name is paras";
+    cout << s;
     
 
     return 0;

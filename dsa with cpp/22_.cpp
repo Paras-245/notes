@@ -62,7 +62,9 @@ int main()
     // cout << checkPalindrome(name,n);
     // cout << toLowerCase('A') << endl;
 
-    
+    string s;
+
+
 
 
     

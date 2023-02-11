@@ -45,6 +45,7 @@ bool checkPalindrome(char a[],int n)
     return true;
 
 }
+reverseWord
 int main()
 {
     // char name[20];
@@ -64,7 +65,8 @@ int main()
 
     // reverse the words in string
     string s = "Hello my name is paras";
-    cout << s;
+    reverseWord(s);
+    cout << s<< endl;
     
 
     return 0;

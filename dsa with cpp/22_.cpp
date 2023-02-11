@@ -79,9 +79,11 @@ int main()
     // cout << toLowerCase('A') << endl;
 
     // reverse the words in string
-    char s[] = "Hello my name is paras";
-    reverseWord(s);
-    cout << s<< endl;
+    // char s[] = "Hello my name is paras";
+    // reverseWord(s);
+    // cout << s<< endl;
+
+    
     
 
     return 0;

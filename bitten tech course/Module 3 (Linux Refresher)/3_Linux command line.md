@@ -1,2 +1,3 @@
 - kali uses bourne again or bash shell,created using gnu project , as a successor of bourne shell
+- bash can also read and execute command from a file, called shell script
 - 

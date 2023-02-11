@@ -11,8 +11,12 @@
             "id": "4bffa006c25d0a76",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "bitten tech course/Module 3 (Linux Refresher)/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "bitten tech course/Module 3 (Linux Refresher)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "bitten tech course/Module 3 (Linux Refresher)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "bitten tech course/Module 3 (Linux Refresher)/Untitled.md"
+              }
             }
           }
         ]
@@ -140,8 +148,8 @@
   },
   "active": "4bffa006c25d0a76",
   "lastOpenFiles": [
-    "bitten tech course/Module 3/2_Windows command line.md",
-    "bitten tech course/Module 3/1_Introduction to Command Line.md",
+    "bitten tech course/Module 3 (Linux Refresher)/2_Windows command line.md",
+    "bitten tech course/Module 3 (Linux Refresher)/1_Introduction to Command Line.md",
     "dsa with cpp/22_Char Arrays,String & More.md",
     "dsa with cpp/8_Switch Statement & Functions.md",
     "dsa with cpp/18_Insertion Sort.md",

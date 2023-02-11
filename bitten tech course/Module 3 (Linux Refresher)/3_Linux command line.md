@@ -1,0 +1,2 @@
+- kali uses bourne again or bash shell,created using gnu project , as a successor of bourne shell
+- 

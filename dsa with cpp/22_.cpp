@@ -21,7 +21,7 @@ int getLength(char name[])
     }
     return count;
 }
-void reverse(string name,int s,int e)
+void reverse(char name[],int s,int e)
 {
     // int s = 0;
     // int e = n-1;
@@ -45,11 +45,12 @@ bool checkPalindrome(char a[],int n)
     return true;
 
 }
-void reverseWord(string str)
+void reverseWord(char str[])
 {
     int s = 0;
     int e = 0;
-    for(int i = 0; i < str.length() -1 ;i++)
+    int n = getLength(str);
+    for(int i = 0; i < str -1 ;i++)
     {
         if(str[i] == ' ')
         {
@@ -77,7 +78,7 @@ int main()
     // cout << toLowerCase('A') << endl;
 
     // reverse the words in string
-    char s = "Hello my name is paras";
+    char s[] = "Hello my name is paras";
     reverseWord(s);
     cout << s<< endl;
     

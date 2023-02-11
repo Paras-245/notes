@@ -59,7 +59,7 @@ void reverseWord(char str[])
             s = i + 1;
         }
     }
-    reverse()
+    reverse(str,s,n -1);
 }
 int main()
 {

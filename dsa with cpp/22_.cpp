@@ -64,6 +64,9 @@ int main()
 
     string s;
 
+    // reverse the words in string
+    
+
 
 
 

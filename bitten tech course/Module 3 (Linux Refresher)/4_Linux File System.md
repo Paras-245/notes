@@ -1,2 +1,2 @@
 - file system is set of rules used to decide how the data is stored and fetched in device,like harddrive or else
-- 
+- the entire linux structure start from top(/) 

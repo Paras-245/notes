@@ -6,3 +6,5 @@
 - top level directory
 - contains all files required to boot and and run the linux
 - include all the required executables and libraries required to boot the remaining filesystem
+## Other directories:
+1. /bin : it contains binary files and executable files from linux and contains definations 

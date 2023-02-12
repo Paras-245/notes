@@ -1,4 +1,4 @@
-th## Strings :
+## Strings :
 - it is 1-Dimensional arrays
 - these are terminated by a \\0  character which indicates the end of string
 ### Input:
@@ -14,6 +14,7 @@ cin wil stop execution when it gets space , tab or \\n
 2. find length of string
 3. [check if the string is palindrome](https://www.codingninjas.com/codestudio/problem-details/check-if-the-string-is-a-palindrome_1062633)
 4. reverse the words in the string
+5. 
 
 
 

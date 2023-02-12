@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c0ca29a58799ca3d",
+        "id": "4d2c6119136fbf6a",
         "type": "tabs",
         "children": [
           {
-            "id": "3e11fbd3d84d7b8a",
+            "id": "06c6aa684c26b1ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md"
+                "file": "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md"
               }
             }
           }
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "62f6a2d2404b2a14",
+  "active": "06c6aa684c26b1ef",
   "lastOpenFiles": [
-    "dsa with cpp/22_Char Arrays,String & More.md",
-    "dsa with cpp/19_STL Standard Template Library.md",
-    "dsa with cpp/20_Solving questions of leetcode on arrays.md",
-    "dsa with cpp/21_More Questions on Arrays.md",
-    "dsa with cpp/17_Bubble Sort.md",
-    "dsa with cpp/16_Selection Sort.md",
-    "dsa with cpp/15_Binary Search Question Part-3.md",
-    "dsa with cpp/14_Binary Search Questions Part-2.md",
-    "dsa with cpp/13_Binary Search Questions Part-1.md",
-    "dsa with cpp/12_Binary Search.md"
+    "bitten tech course/Module 3 (Linux Refresher)/7_Basic DOS Commands.md",
+    "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
+    "bitten tech course/Module 3 (Linux Refresher)/5_NTFS vs FAT vs EXT.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/8_Advantages of linux.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/7_Major Linux Distributions.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/6_Introduction to OS Linux and it’s Evolution.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/5_Vulnerability Research.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/4_Information Security Policies.md",
+    "bitten tech course/Module 2 (Basics & Enviornment Setup)/3_Skills of Ethical Hacker.md"
   ]
 }

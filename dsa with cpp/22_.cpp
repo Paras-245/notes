@@ -83,6 +83,9 @@ int main()
     // reverseWord(s);
     // cout << s<< endl;
 
+    // return maximum occurring character in an input string
+    string
+
     
     
 

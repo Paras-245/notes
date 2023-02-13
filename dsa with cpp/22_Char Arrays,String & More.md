@@ -16,7 +16,8 @@ cout << name;
 4. reverse the words in the string
 5. return maximum occurring character in an input string
 6. [replace spaces](https://www.codingninjas.com/codestudio/problem-details/replace-spaces_1172172)
-7. [remove all occu]
+7. [remove all occurences of a substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
+8. 
 
 ## char array functions :
 1. strlen(char arr[])

@@ -19,6 +19,8 @@ cout << name;
 
 ## char array functions :
 1. strlen(char arr[])
-2. strcmp()
+2. strcmp(s1,s2)
+3. strcpy(dest,source)
+
 
 

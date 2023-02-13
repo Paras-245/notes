@@ -116,7 +116,8 @@ int main()
     // cout << s<< endl;
 
     // return maximum occurring character in an input string
-    string s;
+    // string s;
+    char s[100] ;
     cin >> s;
     // cout << getMaxOccCharacter(s) << endl;
     cout << strlen(s);

@@ -8,7 +8,6 @@ cout << name;
 ### Note :
 - cin wil stop execution when it gets space , tab or \\n
 - cin.getline() is used
-- we can s
 
 ## Questions:
 1. reverse the string
@@ -18,5 +17,8 @@ cout << name;
 5. return maximum occurring character in an input string
 6. 
 
+## char array functions :
+1. strlen(char arr[])
+2. strcmp()
 
 

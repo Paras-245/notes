@@ -15,7 +15,7 @@ cout << name;
 3. [check if the string is palindrome](https://www.codingninjas.com/codestudio/problem-details/check-if-the-string-is-a-palindrome_1062633)
 4. reverse the words in the string
 5. return maximum occurring character in an input string
-6. [replace spaces]
+6. [replace spaces](https://www.codingninjas.com/codestudio/problem-details/replace-spaces_1172172)
 
 ## char array functions :
 1. strlen(char arr[])

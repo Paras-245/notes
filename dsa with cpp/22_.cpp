@@ -61,6 +61,8 @@ void reverseWord(char str[])
     }
     reverse(str,s,n -1);
 }
+
+char getMaxOccCharacter()
 int main()
 {
     // char name[20];
@@ -84,7 +86,8 @@ int main()
     // cout << s<< endl;
 
     // return maximum occurring character in an input string
-    string
+    string s;
+    cin >> s;
 
     
     

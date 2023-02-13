@@ -62,7 +62,14 @@ void reverseWord(char str[])
     reverse(str,s,n -1);
 }
 
-char getMaxOccCharacter()
+char getMaxOccCharacter(string s)
+{
+    int arr[26] = {0};
+    for(int i =0; i < s.length();i++)
+    {
+        char ch
+    }
+}
 int main()
 {
     // char name[20];

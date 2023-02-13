@@ -76,8 +76,8 @@ char getMaxOccCharacter(string s)
         }
         else
         {
-            
-
+            int n = ch -'A';
+            arr[n]++;
         }
     }
 }

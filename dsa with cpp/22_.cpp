@@ -83,7 +83,7 @@ char getMaxOccCharacter(string s)
     int max = -1,ans = -1;
     for(int j = 0; j<26;j++)
     {
-        if(max > arr[j])
+        if(max < arr[j])
         {
             max = arr[j];
             ans = j;

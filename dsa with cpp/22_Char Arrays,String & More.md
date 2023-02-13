@@ -19,7 +19,7 @@ cout << name;
 7. [remove all occurences of a substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
 8. [permutation in string](https://leetcode.com/problems/permutation-in-string/)
 9. [remove all adjacent duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
-10. 
+10. [string compression]()
 
 ## char array functions :
 1. strlen(char arr[])

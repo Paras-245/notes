@@ -80,8 +80,17 @@ char getMaxOccCharacter(string s)
             arr[n]++;
         }
     }
-
-    for(int j = 0; j<)
+    int max = -1,ans = -1
+    for(int j = 0; j<s.length();j++)
+    {
+        if(max > arr[i])
+        {
+            max = arr[i];
+            ans = i;
+        }
+    }
+    
+    return arr[]
 }
 int main()
 {

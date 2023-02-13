@@ -80,6 +80,8 @@ char getMaxOccCharacter(string s)
             arr[n]++;
         }
     }
+
+    for(int j = 0; j<)
 }
 int main()
 {

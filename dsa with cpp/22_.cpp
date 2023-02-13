@@ -1,4 +1,5 @@
 #include<iostream>
+#include<cstring>
 using namespace std;
 char toLowerCase(char ch)
 {

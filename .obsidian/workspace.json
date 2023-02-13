@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md",
+                "file": "dsa with cpp/22_Char Arrays,String & More.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md",
+                "file": "dsa with cpp/22_Char Arrays,String & More.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md",
+                "file": "dsa with cpp/22_Char Arrays,String & More.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/10_Array Problems.md"
+                "file": "dsa with cpp/22_Char Arrays,String & More.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "06c6aa684c26b1ef",
   "lastOpenFiles": [
+    "dsa with cpp/21_More Questions on Arrays.md",
+    "dsa with cpp/10_Array Problems.md",
     "dsa with cpp/9_Intro to Array.md",
     "dsa with cpp/8_Switch Statement & Functions.md",
     "dsa with cpp/7_Leetcode Problems.md",
@@ -155,8 +157,6 @@
     "dsa with cpp/22_Char Arrays,String & More.md",
     "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
     "bitten tech course/Module 3 (Linux Refresher)/7_Basic DOS Commands.md",
-    "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
-    "bitten tech course/Module 3 (Linux Refresher)/5_NTFS vs FAT vs EXT.md",
-    "bitten tech course/Module 2 (Basics & Enviornment Setup)/9_Linux for Penetration Testing.md"
+    "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md"
   ]
 }

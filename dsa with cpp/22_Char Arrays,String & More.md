@@ -8,6 +8,7 @@ cout << name;
 ### Note :
 - cin wil stop execution when it gets space , tab or \\n
 - cin.getline() is used
+- we can s
 
 ## Questions:
 1. reverse the string

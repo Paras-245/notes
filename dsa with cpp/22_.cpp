@@ -115,9 +115,11 @@ int main()
     // cout << s<< endl;
 
     // return maximum occurring character in an input string
-    string s;
-    cin >> s;
-    cout << getMaxOccCharacter(s) << endl;
+    // string s;
+    // cin >> s;
+    // cout << getMaxOccCharacter(s) << endl;
+
+    
     
     
 

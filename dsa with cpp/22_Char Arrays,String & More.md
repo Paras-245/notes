@@ -18,7 +18,7 @@ cout << name;
 6. [replace spaces](https://www.codingninjas.com/codestudio/problem-details/replace-spaces_1172172)
 7. [remove all occurences of a substring](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/)
 8. [permutation in string](https://leetcode.com/problems/permutation-in-string/)
-9. 
+9. [remove all adjacent duplicates]()
 
 ## char array functions :
 1. strlen(char arr[])

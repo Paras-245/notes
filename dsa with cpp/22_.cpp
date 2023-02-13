@@ -90,7 +90,7 @@ char getMaxOccCharacter(string s)
         }
     }
     
-    return 'a'+arr[ans];
+    return 'a'+ans;
 }
 int main()
 {

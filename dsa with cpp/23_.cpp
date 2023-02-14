@@ -26,7 +26,7 @@ void printSum(int arr[][4],int row,int col)
         {
             sum+=arr[row][col];
         }
-        cout << "sum of row " << row+1 << "is" << sum;
+        cout << "sum of row " << row+1 << " is " << sum << endl;
     }
     
 }

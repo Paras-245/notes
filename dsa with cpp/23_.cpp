@@ -13,7 +13,6 @@ int main()
             cin>>arr[row][col];
         }
     }
-   
 
     // taking input - col wise
     for(int row = 0; row<4;row++)

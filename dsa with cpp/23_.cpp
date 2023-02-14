@@ -4,9 +4,25 @@ int main()
 {
     // creating 2d array
     int arr[3][4];
+    
+    // taking input
     for(int i = 0; i<3;i++)
     {
-        for(int j = 0; j < 4)
+        for(int j = 0; j < 4;j++)
+        {
+            cin>>arr[i][j];
+        }
     }
+
+    // output 
+    for(int i = 0; i<3;i++)
+    {
+        for(int j = 0; j < 4;j++)
+        {
+            cin>>arr[i][j];
+        }
+    }
+
+
     return 0;
 }

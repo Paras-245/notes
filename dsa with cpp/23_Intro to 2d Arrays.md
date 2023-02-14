@@ -3,3 +3,7 @@
 ## Creation of 2d arrays :
 - datatype name\[rows\]\[columns\]
 ### Input :
+- in 1d we say : cin >> arr\[\]
+cin >> arr\[row\]\[column\]
+### Output :
+cout << 

@@ -1,7 +1,9 @@
 #include<iostream>
 using namespace std;
-bool isPresent(int arr[],int target,int row ,int col)
+bool isPresent(int arr[][4],int target,int row ,int col)
 {
+    
+
 
 }
 int main()

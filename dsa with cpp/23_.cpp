@@ -16,12 +16,15 @@ bool isPresent(int arr[][4],int target,int row ,int col)
     return 0;
 
 }
+
+void printSum(int arr[][4],int row,)
 int main()
 {
     // creating 2d array
     int arr[3][4];
     
     // taking input - row wise
+    cout << "Enter the elements " << endl;
     for(int row = 0; row<3;row++)
     {
         for(int col = 0; col < 4;col++)
@@ -40,7 +43,7 @@ int main()
     // }
 
     // output 
-    cout << "printing the array "
+    cout << "printing the array " << endl;
     for(int i = 0; i<3;i++)
     {
         for(int j = 0; j < 4;j++)

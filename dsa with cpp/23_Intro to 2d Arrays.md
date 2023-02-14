@@ -1,0 +1,1 @@
+as we require to store matrix or make tic tac toe , we need arrays with rows and columns or 2d arrays

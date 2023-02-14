@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+bool isPresent(int arr[])
 int main()
 {
     // creating 2d array
@@ -36,7 +37,12 @@ int main()
     cout << "Enter the element to search " << endl;
     int target ;
     cin >>target;
-    
+    if(isPresent(arr,target,3,4))
+    {
+        cout << "Found!" << endl;
+    }
+    else 
+    cout << "Not Found!" << endl;
 
 
     return 0;

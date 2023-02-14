@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
-bool isPresent(int arr[])
+bool isPresent(int arr[],int target,int row ,int col)
+{
+
+}
 int main()
 {
     // creating 2d array

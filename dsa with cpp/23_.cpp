@@ -40,6 +40,7 @@ int main()
     // }
 
     // output 
+    cout << "printing the array "
     for(int i = 0; i<3;i++)
     {
         for(int j = 0; j < 4;j++)
@@ -48,16 +49,18 @@ int main()
         }
         cout << endl;
     }
+    
+    // searching in array
 
-    cout << "Enter the element to search " << endl;
-    int target ;
-    cin >>target;
-    if(isPresent(arr,target,3,4))
-    {
-        cout << "Found!" << endl;
-    }
-    else 
-    cout << "Not Found!" << endl;
+    // cout << "Enter the element to search " << endl;
+    // int target ;
+    // cin >>target;
+    // if(isPresent(arr,target,3,4))
+    // {
+    //     cout << "Found!" << endl;
+    // }
+    // else 
+    // cout << "Not Found!" << endl;
 
 
     return 0;

@@ -6,20 +6,20 @@ int main()
     int arr[3][4];
     
     // taking input - row wise
-    for(int i = 0; i<3;i++)
+    for(int row = 0; row<3;row++)
     {
         for(int j = 0; j < 4;j++)
         {
-            cin>>arr[i][j];
+            cin>>arr[row][j];
         }
     }
 
     // taking input - col wise
-    for(int i = 0; i<4;i++)
+    for(int row = 0; row<4;row++)
     {
         for(int j = 0; j < 3;j++)
         {
-            cin>>arr[i][j];
+            cin>>arr[row][j];
         }
     }
 

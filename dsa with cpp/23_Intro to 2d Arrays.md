@@ -3,7 +3,8 @@
 ## Creation of 2d arrays :
 - datatype name\[rows\]\[columns\]
 ### Input :
-- in 1d we say : cin >> arr\[\]
-cin >> arr\[row\]\[column\]
+- in 1d we say : cin >> arr\[i\]
+- but in 2d array : cin >> arr\[row\]\[column\]
 ### Output :
-cout << 
+- in 1d array : cout << arr\[i\]
+- but in 2d array :  cout << arr\

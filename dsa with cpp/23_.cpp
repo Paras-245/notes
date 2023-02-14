@@ -8,18 +8,18 @@ int main()
     // taking input - row wise
     for(int row = 0; row<3;row++)
     {
-        for(int j = 0; j < 4;j++)
+        for(int col = 0; col < 4;col++)
         {
-            cin>>arr[row][j];
+            cin>>arr[row][col];
         }
     }
 
     // taking input - col wise
     for(int row = 0; row<4;row++)
     {
-        for(int j = 0; j < 3;j++)
+        for(int col = 0; col < 3;col++)
         {
-            cin>>arr[row][j];
+            cin>>arr[row][col];
         }
     }
 

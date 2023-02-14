@@ -15,23 +15,23 @@ int main()
     }
 
     // taking input - col wise
-    for(int row = 0; row<4;row++)
-    {
-        for(int col = 0; col < 3;col++)
-        {
-            cin>>arr[row][col];
-        }
-    }
+    // for(int row = 0; row<4;row++)
+    // {
+    //     for(int col = 0; col < 3;col++)
+    //     {
+    //         cin>>arr[row][col];
+    //     }
+    // }
 
     // output 
-    for(int i = 0; i<3;i++)
-    {
-        for(int j = 0; j < 4;j++)
-        {
-            cout << arr[i][j] << ' ';
-        }
-        cout << endl;
-    }
+    // for(int i = 0; i<3;i++)
+    // {
+    //     for(int j = 0; j < 4;j++)
+    //     {
+    //         cout << arr[i][j] << ' ';
+    //     }
+    //     cout << endl;
+    // }
 
 
     return 0;

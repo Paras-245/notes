@@ -7,4 +7,4 @@
 - but in 2d array : cin >> arr\[row\]\[column\]
 ### Output :
 - in 1d array : cout << arr\[i\]
-- but in 2d array :  cout << arr\
+- but in 2d array :  cout << arr\[row\]\[col\]

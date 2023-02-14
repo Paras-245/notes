@@ -8,4 +8,3 @@
 ### Output :
 - in 1d array : cout << arr\[i\]
 - but in 2d array :  cout << arr\[row\]\[col\]
-`\`

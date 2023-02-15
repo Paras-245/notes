@@ -56,13 +56,14 @@ void largestRowSum(int arr[][3],int row,int col)
 void spiralPrint(int arr[][4],int rows,int cols)
 {
     int left = rows,right = cols;
-    int elements = rows * cols;
+    int elements = rows;
 
     while(elements)
     {
         for(int i = 0; i < right;i++)
         {
-            c
+            cout << arr[left][i];
+            elements--;
         }
     }
 }

@@ -58,20 +58,14 @@ void spiralPrint(int arr[][4],int rows,int cols)
     int left = rows,right = cols;
     int elements = cols;
 
-    for(int i = 0; i < right;i++)
+    while(elements)
+    {
+        for(int i = 0; i < right;i++)
         {
             cout << arr[left][i];
             elements--;
         }
-
-    // while(elements)
-    // {
-    //     for(int i = 0; i < right;i++)
-    //     {
-    //         cout << arr[left][i];
-    //         elements--;
-    //     }
-    // }
+    }
 }
 
 int main()

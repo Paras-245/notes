@@ -41,7 +41,7 @@ void longestRowSum(int arr[][4],int row,int col)
         {
             sum+=arr[row][col];
         }
-        if
+        if(s)
     }
 
 

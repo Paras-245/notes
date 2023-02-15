@@ -65,6 +65,8 @@ void spiralPrint(int arr[][4],int rows,int cols)
             cout << arr[left][i] << " ";
             elements--;
         }
+
+        for(int j = 0 )
     }
 }
 

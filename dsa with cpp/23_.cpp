@@ -57,6 +57,14 @@ void spiralPrint(int arr[][4],int rows,int cols)
 {
     int left = rows,right = cols;
     int elements = rows * cols;
+
+    while(elements)
+    {
+        for(int i = 0; i < right;i++)
+        {
+            c
+        }
+    }
 }
 
 int main()

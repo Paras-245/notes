@@ -49,7 +49,7 @@ void longestRowSum(int arr[][4],int row,int col)
         }
     }
 
-    cout << "The maximum "
+    cout << "The maximum sum is "<< max <<" at row no " << num;
 
 
 }
@@ -99,9 +99,10 @@ int main()
     // }
     // else 
     // cout << "Not Found!" << endl;
-    printSum(arr,3,4);
+    // printSum(arr,3,4);
 
     // largest row sum
+    
 
 
 

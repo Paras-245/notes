@@ -34,6 +34,15 @@ void printSum(int arr[][4],int row,int col)
 void longestRowSum(int arr[][4],int row,int col)
 {
     int max = INT_MIN;
+    for(int row = 0; row<3;row++)
+    {
+        int sum = 0;
+        for(int col = 0; col < 4;col++)
+        {
+            sum+=arr[row][col];
+        }
+        if
+    }
 
 
 }

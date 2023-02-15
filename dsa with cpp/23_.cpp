@@ -30,6 +30,7 @@ void printSum(int arr[][4],int row,int col)
     }
     
 }
+void longestRowSum(int arr[])
 int main()
 {
     // creating 2d array
@@ -79,7 +80,7 @@ int main()
     printSum(arr,3,4);
 
     // largest row sum
-    
+
 
 
     return 0;

@@ -51,18 +51,19 @@ void largestRowSum(int arr[][3],int row,int col)
 
     cout << "The maximum sum is "<< max <<" at row no " << num;
 
-
 }
+
+void 
 int main()
 {
     // creating 2d array
-    int arr[3][3];
+    int arr[4][4];
     
     // taking input - row wise
     cout << "Enter the elements " << endl;
-    for(int row = 0; row<3;row++)
+    for(int row = 0; row<4;row++)
     {
-        for(int col = 0; col < 3;col++)
+        for(int col = 0; col < 4;col++)
         {
             cin>>arr[row][col];
         }
@@ -79,9 +80,9 @@ int main()
 
     // output 
     cout << "printing the array " << endl;
-    for(int i = 0; i<3;i++)
+    for(int i = 0; i<4;i++)
     {
-        for(int j = 0; j < 3;j++)
+        for(int j = 0; j < 4;j++)
         {
             cout << arr[i][j] << ' ';
         }
@@ -103,6 +104,9 @@ int main()
 
     // largest row sum
     // largestRowSum(arr,3,4);
+
+    // spiral print
+    spiralPrint(arr,4,4);
 
 
 

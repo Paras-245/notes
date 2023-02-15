@@ -31,7 +31,7 @@ void printSum(int arr[][4],int row,int col)
     }
     
 }
-void longestRowSum(int arr[][4],int row,int col)
+void largestRowSum(int arr[][4],int row,int col)
 {
     int max = INT_MIN;
     int num = -1;
@@ -102,7 +102,7 @@ int main()
     // printSum(arr,3,4);
 
     // largest row sum
-    
+    largestRowSum(arr,3,4);
 
 
 

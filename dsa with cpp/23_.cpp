@@ -30,7 +30,7 @@ void printSum(int arr[][4],int row,int col)
     }
     
 }
-void longestRowSum(int arr[])
+void longestRowSum(int arr[][4],int row),int col
 int main()
 {
     // creating 2d array

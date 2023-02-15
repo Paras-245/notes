@@ -11,3 +11,6 @@
 ### Passing 2d array to func:
 we need to specify the column size 
 
+## Questions :
+1. [Print Like a wave]()
+

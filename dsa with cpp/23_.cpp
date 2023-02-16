@@ -55,7 +55,7 @@ void largestRowSum(int arr[][3],int row,int col)
 
 void spiralPrint(int arr[][4],int rows,int cols)
 {
-    int left = 0,right = cols;
+    int                                            left = 0,right = cols;
     int bottom = rows,top = 0;
     int elements = cols;
 

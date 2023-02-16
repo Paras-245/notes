@@ -106,7 +106,7 @@ int main()
     // largest row sum
     // largestRowSum(arr,3,4);
 
-    cout << *arr[5];
+
 
 
 

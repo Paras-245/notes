@@ -14,5 +14,6 @@ we need to specify the column size
 ## Questions :
 1. [Print Like a wave](https://www.codingninjas.com/codestudio/problems/print-like-a-wave_893268)
 2. [spiral matrix](https://www.codingninjas.com/codestudio/problems/spiral-matrix_840698)
-3. 
+3. rotate a matrix
+4. 
 

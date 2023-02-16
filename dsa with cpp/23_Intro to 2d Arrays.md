@@ -13,5 +13,6 @@ we need to specify the column size
 
 ## Questions :
 1. [Print Like a wave](https://www.codingninjas.com/codestudio/problems/print-like-a-wave_893268)
-2. [spiral pri]
+2. [spiral print](https://www.codingninjas.com/codestudio/problems/print-spiral_547)
+3. 
 

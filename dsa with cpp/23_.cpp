@@ -57,7 +57,7 @@ void spiralPrint(int arr[][4],int rows,int cols)
 {
     int left = 0,right = cols;
     int bottom = rows;
-    int elements = cols;
+    int elements = cols*rows;
 
     while(elements > 0)
     {
@@ -74,7 +74,7 @@ void spiralPrint(int arr[][4],int rows,int cols)
         }
         for(int k = left ; k < right - 1;k++)
         {
-            cout << arr[bottom-1][k] << " ";
+            cout << arr[bottom-1][N-k] << " ";
             elements--;
         }
     }

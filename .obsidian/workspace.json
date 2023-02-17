@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/21_More Questions on Arrays.md",
+                "file": "dsa with cpp/23_Intro to 2d Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/21_More Questions on Arrays.md",
+                "file": "dsa with cpp/23_Intro to 2d Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/21_More Questions on Arrays.md",
+                "file": "dsa with cpp/23_Intro to 2d Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/21_More Questions on Arrays.md"
+                "file": "dsa with cpp/23_Intro to 2d Arrays.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "ab4f77e3c78bbc6d",
   "lastOpenFiles": [
+    "dsa with cpp/21_More Questions on Arrays.md",
     "dsa with cpp/22_Char Arrays,String & More.md",
     "dsa with cpp/23_Intro to 2d Arrays.md",
     "dsa with cpp/19_STL Standard Template Library.md",
@@ -156,7 +157,6 @@
     "dsa with cpp/5_Operators _ For loop.md",
     "dsa with cpp/4_Solving_Patterns.md",
     "dsa with cpp/10_Array Problems.md",
-    "dsa with cpp/9_Intro to Array.md",
-    "dsa with cpp/21_More Questions on Arrays.md"
+    "dsa with cpp/9_Intro to Array.md"
   ]
 }

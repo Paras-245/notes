@@ -19,7 +19,6 @@ it is used to calculate hcf
 - a%m  - b%m = (a-b)%m
 - a%m \* b%m = (a\*b)%m
  [Fast Exponentiation](https://www.codingninjas.com/codestudio/problem-details/modular-exponentiation_1082146)
- 
 
 
 ## Questions:

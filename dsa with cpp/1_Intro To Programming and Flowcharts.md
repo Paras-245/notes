@@ -6,11 +6,7 @@ Dynamic representation of an approach
 3. Process : (RECTANGLE)
 4. Decision : (RHOMBUS) It gives YES or NO
 5. Flow : (ARROWS)
-6. Connector : (CIRCLE) used for functions
-
-
-
-
+6. Connector : (CIRCLE) used for function
 ## Pseudocode :
 way of generic representing logic
 

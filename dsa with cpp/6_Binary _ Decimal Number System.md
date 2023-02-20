@@ -3,7 +3,6 @@
 1. Divide by 2 and store the remainder
 2. repeat above until n != 0
 3. reverse the answer
-4.
 ### Second Method :
 1. we know that if n&1 is 1 then it is even else it is odd
 2. then we >> it bcs it mimics dividing by 2

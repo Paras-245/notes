@@ -12,8 +12,16 @@ int gcd(int a,int b)
     }
     while(a!=b)
     {
-        i
+        if(a>b)
+        {
+            a = a-b;
+        }
+        else 
+        {
+            b = b-a;
+        }
     }
+    return a;
 }
 int main()
 {

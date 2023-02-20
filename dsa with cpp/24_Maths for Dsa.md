@@ -23,8 +23,8 @@ it is used to calculate hcf
 
 ## Questions:
 1. [Count Primes](https://leetcode.com/problems/count-primes/description/)
-2. homework : Segmented sieve
-3. pigeonhole principle
+2. homework : Segmented sieve: it is used in finding prime numbers but it is more efficient than simple sieve al
+3. pigeonhole principle : The principle states that if you have n pigeons and m pigeonholes, and n > m, then there must be at least one pigeonhole with more than one pigeon.
 4. catalan number
 5. inc - excl principle
 6. lucas theorem

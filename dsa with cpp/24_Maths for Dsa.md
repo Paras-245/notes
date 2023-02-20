@@ -5,6 +5,7 @@
 - if we go with this approach it can give time limit exceeded
 ## Sieve of Eratosthenes:
 The Sieve of Eratosthenes is a simple and ancient algorithm for finding all prime numbers up to a specified limit.The algorithm works by iteratively marking the multiples of each prime number, starting with 2, and then moving on to the next unmarked number until all numbers up to the limit have been considered. Any unmarked numbers that remain are prime.
+- but this does not work good when we have n so large
 - its time complexity : O(n*(log(logn)))
 
 ## Gcd / Hcf:
@@ -23,7 +24,7 @@ it is used to calculate hcf
 
 ## Questions:
 1. [Count Primes](https://leetcode.com/problems/count-primes/description/)
-2. homework : Segmented sieve: it is used in finding prime numbers but it is more efficient than simple sieve al
+2. homework : Segmented sieve: it is used in finding prime numbers but it is more efficient than simple sieve algorithm
 3. pigeonhole principle : The principle states that if you have n pigeons and m pigeonholes, and n > m, then there must be at least one pigeonhole with more than one pigeon.
 4. catalan number
 5. inc - excl principle

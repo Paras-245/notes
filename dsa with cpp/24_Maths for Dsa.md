@@ -24,4 +24,6 @@ it is used to calculate hcf
 ## Questions:
 1. [Count Primes](https://leetcode.com/problems/count-primes/description/)
 2. homework : Segmented sieve
-3. 
+3. pigeonhole principle
+4. catalan number
+5. inc - excl principle

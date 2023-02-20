@@ -17,7 +17,8 @@ it is used to calculate hcf
 ## Modulo arithematic :
 - (a+b) % m = a%m + b%m
 - a%m  - b%m = (a-b)%m
-- a%m \ b%m = (a*b)%m
+- a%m \* b%m = (a\*b)%m
+- 
 ## Questions:
 1. [Count Primes](https://leetcode.com/problems/count-primes/description/)
 2. homework : Segmented sieve

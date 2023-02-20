@@ -19,7 +19,8 @@ it is used to calculate hcf
 - a%m  - b%m = (a-b)%m
 - a%m \* b%m = (a\*b)%m
 
-## Fast Exp
+## Fast Exponentiation : 
+
 ## Questions:
 1. [Count Primes](https://leetcode.com/problems/count-primes/description/)
 2. homework : Segmented sieve

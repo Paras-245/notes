@@ -11,7 +11,9 @@ The Sieve of Eratosthenes is a simple and ancient algorithm for finding all prim
 it a factor which can divide both numbers
 
 ## Euclid Algorithm: 
-
+it is used to calculate hcf
+- gcd(a,b) = gcd (a-b,b) = gcd(a%b,b)
+- 
 ## Questions:
 1. [Count Primes](https://leetcode.com/problems/count-primes/description/)
 2. homework : Segmented sieve

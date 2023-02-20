@@ -27,3 +27,4 @@ it is used to calculate hcf
 3. pigeonhole principle
 4. catalan number
 5. inc - excl principle
+6. lucas theorem

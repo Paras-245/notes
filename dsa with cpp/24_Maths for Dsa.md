@@ -14,6 +14,7 @@ there is also a relation that is : lcm(a,b) * gcd(a,b) = a * b
 it is used to calculate hcf
 - gcd(a,b) = gcd (a-b,b) = gcd(a%b,b)
 
+## Modulo arithematic :
 
 ## Questions:
 1. [Count Primes](https://leetcode.com/problems/count-primes/description/)

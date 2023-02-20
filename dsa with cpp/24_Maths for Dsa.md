@@ -8,7 +8,10 @@ The Sieve of Eratosthenes is a simple and ancient algorithm for finding all prim
 - its time complexity : O(n*(log(logn)))
 
 ## Gcd / Hcf:
-it a factor which can perfectl
+it a factor which can divide both numbers
+
+## Euclid Algorithm: 
+
 ## Questions:
 1. [Count Primes](https://leetcode.com/problems/count-primes/description/)
 2. homework : Segmented sieve

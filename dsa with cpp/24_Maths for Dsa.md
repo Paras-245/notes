@@ -5,7 +5,7 @@
 - if we go with this approach it can give time limit exceeded
 
 ## Sieve of Eratosthenes:
-
+h
 
 ## Questions:
 1. [Count Primes]()

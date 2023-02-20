@@ -4,6 +4,7 @@
 - its complexity is O(N)
 - if we go with this approach it can give time limit exceeded
 
+## Sieve of Eratosthenes:
 
 
 ## Questions:

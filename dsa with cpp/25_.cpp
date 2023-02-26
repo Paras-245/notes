@@ -6,6 +6,8 @@ int main()
     cout << num << endl;
     
     // address of Operator - &
-    cout << &num << endl;                                                   
+    cout << &num << endl;    
+    
+                                                   
     return 0;
 }

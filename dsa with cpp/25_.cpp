@@ -2,5 +2,8 @@
 using namespace std;
 int main()
 {
-  return 0;
+    int num = 5;
+    cout << num << endl;
+    
+    return 0;
 }

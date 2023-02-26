@@ -1,0 +1,1 @@
+when we create a variable , we give it a name,but in the memory it is not identified by the name,it has a specific address

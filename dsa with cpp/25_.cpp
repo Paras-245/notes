@@ -19,5 +19,10 @@ int main()
     // return 0;
 
 
+    int num = 5;
+    int a = num;
+    a++;
+
+    cout << num <<endl;
     
 }

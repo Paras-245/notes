@@ -17,13 +17,17 @@ int main()
     // int * p = 0;
     // cout << *p << endl;
     
-    int *p = &num;
+    // int *p = &num;
 
-    cout << *p++ << endl;
-    cout << num <<endl;
+    // cout << *p++ << endl;
+    // cout << num <<endl;
 
-    int *q = p;
+    // int *q = p;
+
+    // pointer arithematic
+
     
+
     return 0;
 
 }

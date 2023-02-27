@@ -9,7 +9,8 @@ int main()
     cout << &num << endl;    
     
     int *ptr = &num;
-
-    cout << "value is : " << *ptr << endl;                                               
+    // dereference operator
+    cout << "value is : " << *ptr << endl;
+    
     return 0;
 }

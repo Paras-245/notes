@@ -4,4 +4,4 @@
 ```cpp
 int *ptr = &i;
 ```
-
+here the ptr variable hold the address of 

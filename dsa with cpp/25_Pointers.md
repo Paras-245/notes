@@ -17,5 +17,7 @@ int *ptr = &i;
 int * t = null;
 t=t+1;
 ```
-here 
+-  here assume address stored in t is 100 it will increment the address stored to 104
+- it will increment according to the size of datatype it pointing
+- 
 

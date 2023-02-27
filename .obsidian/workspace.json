@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dsa with cpp/25_Pointers.md",
+                "file": "dsa with cpp/5_Operators _ For loop.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dsa with cpp/25_Pointers.md",
+                "file": "dsa with cpp/5_Operators _ For loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dsa with cpp/25_Pointers.md",
+                "file": "dsa with cpp/5_Operators _ For loop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dsa with cpp/25_Pointers.md"
+                "file": "dsa with cpp/5_Operators _ For loop.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "012ce3c2d5421b0a",
   "lastOpenFiles": [
+    "dsa with cpp/25_Pointers.md",
     "dsa with cpp/24_Maths for Dsa.md",
     "dsa with cpp/23_Intro to 2d Arrays.md",
     "dsa with cpp/7_Leetcode Problems.md",

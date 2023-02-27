@@ -19,8 +19,10 @@ int main()
     // return 0;
 
 
-    int num = 5;
+    
     int *p = &num;
 
-    (*p
+    (*p)++;
+    cout << num <<endl;
+
 }

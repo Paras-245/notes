@@ -8,5 +8,7 @@ int *ptr = &i;
 - here int tells the datatype our pointer pointing to
 - \* is tehe dereference operator , it tells go to the address and gives the value here
 ## Size of pointer : 
+- our datatype size will change but the size of pointer always will be fixed like 8 bytes
+
 
 

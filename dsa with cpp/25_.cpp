@@ -11,7 +11,6 @@ int main()
     int *ptr = &num;
     // dereference operator
     cout << "value is : " << *ptr << endl;
-
-    cout << "size of integer pointer is : "
+    cout << "size of integer pointer is : "<<sizeof(ptr) << endl;
     return 0;
 }

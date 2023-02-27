@@ -6,6 +6,6 @@ int *ptr = &i;
 ```
 - here the ptr variable hold the address of variable i
 - here int tells the datatype our pointer pointing to
+- \* is tehe dereference operator , it tells go to the address and gives the value here
 - 
-
 

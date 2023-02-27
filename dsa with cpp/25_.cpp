@@ -22,7 +22,8 @@ int main()
     
     int *p = &num;
 
-    (*p)++;
+    cout << *p++ << endl;;
+    
     cout << num <<endl;
 
 }

@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "ffcb057df08866f5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -157,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ffcb057df08866f5",
+  "active": "012ce3c2d5421b0a",
   "lastOpenFiles": [
     "dsa with cpp/24_Maths for Dsa.md",
     "dsa with cpp/23_Intro to 2d Arrays.md",

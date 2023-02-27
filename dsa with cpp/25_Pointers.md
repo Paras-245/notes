@@ -10,6 +10,7 @@ int *ptr = &i;
 ## Size of pointer : 
 - our datatype size will change but the size of pointer always will be fixed like 8 bytes
 - when we try to access the null pointer we will get the segmentation fault
-
+- if we change the variable by copying , it will not effect the original variable
+- 
 
 

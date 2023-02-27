@@ -20,9 +20,7 @@ int main()
 
 
     int num = 5;
-    int a = num;
-    a++;
+    int *p = &num;
 
-    cout << num <<endl;
-    
+    (*p
 }

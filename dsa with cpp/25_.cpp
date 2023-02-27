@@ -8,6 +8,8 @@ int main()
     // address of Operator - &
     cout << &num << endl;    
     
-                                                   
+    int *ptr = &num;
+
+    cout << "value is : " << *ptr << endl;                                               
     return 0;
 }

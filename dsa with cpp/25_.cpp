@@ -17,13 +17,13 @@ int main()
     // int * p = 0;
     // cout << *p << endl;
     
-
-
-    
     int *p = &num;
 
     cout << *p++ << endl;
     cout << num <<endl;
+
+    int *q = p;
+    
     return 0;
 
 }

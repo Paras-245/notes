@@ -12,7 +12,5 @@ int *ptr = &i;
 - when we try to access the null pointer we will get the segmentation fault
 - if we change the variable by copying , it will not effect the original variable
 ## copy one pointer to another
-```cpp
-i```
 
 

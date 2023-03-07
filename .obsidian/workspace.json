@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md"
+                "file": "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "4b53dbb974ce37d5",
   "lastOpenFiles": [
+    "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
     "dsa with cpp/25_Pointers.md",
     "dsa with cpp/5_Operators _ For loop.md",
     "dsa with cpp/24_Maths for Dsa.md",

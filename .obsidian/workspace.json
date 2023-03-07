@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8fe91e08041b19e2",
+        "id": "60c6101633814baa",
         "type": "tabs",
         "children": [
           {
-            "id": "3c29e0fd810f8ff4",
+            "id": "92d21b02a41dad10",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/12_history and grep command.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/12_history and grep command.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/12_history and grep command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md"
+                "file": "bitten tech course/Module 3 (Linux Refresher)/12_history and grep command.md"
               }
             }
           }
@@ -146,11 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3c29e0fd810f8ff4",
+  "active": "92d21b02a41dad10",
   "lastOpenFiles": [
+    "bitten tech course/Module 3 (Linux Refresher)/12_history and grep command.md",
+    "bitten tech course/Module 3 (Linux Refresher)/Untitled",
+    "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md",
     "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
     "bitten tech course/Module 3 (Linux Refresher)/7_Basic DOS Commands.md",
-    "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md",
     "bitten tech course/Module 3 (Linux Refresher)/10_Linux Elementary Commands.md",
     "bitten tech course/Module 3 (Linux Refresher)/9_Kali 2019.4 and linux file system overview.md",
     "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",

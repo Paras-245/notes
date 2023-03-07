@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4b53dbb974ce37d5",
+            "id": "09a3a4d116310155",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
+                "file": "bitten tech course/Module 3 (Linux Refresher)/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md"
+                "file": "bitten tech course/Module 3 (Linux Refresher)/Untitled.md"
               }
             }
           }
@@ -146,9 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4b53dbb974ce37d5",
+  "active": "09a3a4d116310155",
   "lastOpenFiles": [
     "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
+    "bitten tech course/Module 3 (Linux Refresher)/Untitled.md",
+    "bitten tech course/Module 3 (Linux Refresher)/7_Basic DOS Commands.md",
+    "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
     "dsa with cpp/25_Pointers.md",
     "dsa with cpp/5_Operators _ For loop.md",
     "dsa with cpp/24_Maths for Dsa.md",

@@ -11,8 +11,12 @@
             "id": "3c29e0fd810f8ff4",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md"
+              }
             }
           }
         ]
@@ -140,10 +148,11 @@
   },
   "active": "3c29e0fd810f8ff4",
   "lastOpenFiles": [
-    "bitten tech course/Module 3 (Linux Refresher)/10_Linux Elementary Commands.md",
-    "bitten tech course/Module 3 (Linux Refresher)/9_Kali 2019.4 and linux file system overview.md",
     "bitten tech course/Module 3 (Linux Refresher)/8_DOS Networking Commands.md",
     "bitten tech course/Module 3 (Linux Refresher)/7_Basic DOS Commands.md",
+    "bitten tech course/Module 3 (Linux Refresher)/11_Linux Networking Commands.md",
+    "bitten tech course/Module 3 (Linux Refresher)/10_Linux Elementary Commands.md",
+    "bitten tech course/Module 3 (Linux Refresher)/9_Kali 2019.4 and linux file system overview.md",
     "bitten tech course/Module 3 (Linux Refresher)/6_Linux User Administration.md",
     "dsa with cpp/25_Pointers.md",
     "dsa with cpp/5_Operators _ For loop.md",

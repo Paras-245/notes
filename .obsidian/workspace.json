@@ -18,8 +18,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "63b45e553163a1a9",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +102,7 @@
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               }
             }
@@ -133,8 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +156,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ed614b406fc7c9ce",
+  "active": "63b45e553163a1a9",
   "lastOpenFiles": [
     "bitten tech course/Module 3 (Linux Refresher)/10_Linux Elementary Commands.md",
     "bitten tech course/Module 3 (Linux Refresher)/9_Kali 2019.4 and linux file system overview.md",
